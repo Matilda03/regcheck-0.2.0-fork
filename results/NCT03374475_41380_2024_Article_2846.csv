@@ -1,0 +1,3658 @@
+dimension,paper_content_quotes,paper_content_summary,registration_content_quotes,registration_content_summary,deviation_judgement,deviation_information
+Eligibility: inclusion criteria,"[PAPER_0001, relevance_score=0.070] INTRODUCTION
+Seltorexant (JNJ-42847922) is a selective orexin-2 receptor (OX2R)
+antagonist being developed as a treatment for major depressive
+disorder (MDD). Orexins are excitatory neuropeptide transmitters
+produced in orexinergic neurons in the lateral hypothalamus,
+which project to neural circuits that regulate sleep-wake cycles,
+monoamine
+neurotransmitter
+release,
+autonomic
+function,
+hypothalamic-pituitary-adrenal (HPA) axis activation, and emo-
+tional behavior [1, 2]. Orexins mediate behavior, glucocorticoid
+hormone release, and sympathetic autonomic activation under
+conditions of high motivational relevance, such as stress, threat,
+and opportunities for reward [1, 3]. For example, orexins activate
+monoaminergic neurons projecting to the lateral hypothalamus,
+basal forebrain, and cerebral cortex to exert arousal effects, and
+during wakefulness the tonic excitation of orexin neurons by
+limbic input may be enhanced by stress or emotional stimulation
+[1, 4, 5]. Some aspects of these roles are differentially mediated by
+orexin 1 vs orexin 2 receptor signaling [2].
+
+[PAPER_0008, relevance_score=0.064] MDD, major depressive disorder;
+MADRS, Montgomery–Åsberg Depression Rating Scale; HDRS17, Hamilton Depression Rating Scale-17; green dotted line, placebo responders
+based on reduction from lead-in baseline in HDRS17; purple dotted line, placebo non-responders based on reduction from lead-in HDRS17;
+gold solid line, contributes to primary analysis. S. Mesens et al. Molecular Psychiatry (2025) 30:2427 – 2435
+Study population
+Participants with MDD per Diagnostic and Statistical Manual of Mental
+Disorders, Fifth Edition, without psychotic features, and moderate to severe
+depression severity assessed by a Montgomery-Åsberg Depression Rating
+Scale total score ≥25 at screening were enrolled. Participants had not
+received antidepressant pharmacotherapy for at least 2 weeks before
+screening. Participants were not withdrawn from current antidepressant
+treatment for the purpose of the study. Volunteers were excluded from
+participation if they had experienced clinically signiﬁcant suicidal behavior
+or serious suicidal ideation within 6 months, moderate or severe substance
+abuse disorder, primary or current diagnosis of other psychiatric conditions
+(ie. primary diagnosis of anxiety disorders, bipolar disorder, psychotic
+disorder), or lack of response to more than 2 treatments in the current
+episode (<25% response; Additionally, women of childbearing potential
+(WOCBP) were excluded.
+
+[PAPER_0010, relevance_score=0.078] Safety information was
+summarized using the full safety analysis set, deﬁned as participants who
+received ≥1 dose of study medication. Sample size determination
+An estimated 26 patients in each treatment group (78 total) were planned to
+complete the study in the enriched patient population after excluding
+placebo-responders in the placebo lead-in phase. The study sample size
+chosen (N = 78 non-placebo responders completing the study) was
+expected to allow investigation of the potential effect of seltorexant relative
+to placebo on symptoms of depression based upon power calculations that
+used data from a previous study conducted using the same compound in a
+similar patient population [15]. Assuming a standard deviation (SD) of 5.8 for
+the treatment difference in HDRS17 total score observed in this previous
+study [15], the calculated sample size allowed detection of a difference
+between any seltorexant group and placebo of 3.4 points and 4.2 points,
+respectively, at 20 and 10% one-sided signiﬁcance levels with 90% power. This translated to effect sizes of 0.59 and 0.72, respectively, which were
+comparable to the effect size previously observed [15]. To achieve this eITT sample size, 138 participants were planned to enter
+the lead-in period.
+
+[PAPER_0014, relevance_score=0.069] Statistical methods
+The primary hypothesis tested was that seltorexant is superior to placebo
+in the treatment of MDD when given as a monotherapy. A secondary
+objective was that the antidepressant treatment effect would be greater in
+patients with moderate-severe insomnia. The effect of seltorexant on
+symptoms of depression during the treatment period was evaluated using
+change from treatment baseline in HDRS17 total score, HDRS17 Sleep Item-
+Adjusted score and HDRSAM-6 score during the treatment period. [14]. The primary hypothesis was tested by comparing the changes in HDRS17
+total score after treatment Week 5 using a mixed-effects model for
+repeated measures (MMRM), with subject as random factor; presence of
+subjective sleep disorder, time, treatment (placebo, seltorexant) and time-
+by-treatment interaction as factors and treatment baseline score as a
+continuous
+covariate.
+
+[PAPER_0016, relevance_score=0.103] Of these,
+127 patients were included in the safety population, of whom 86
+were in the eITT set and 40 were lead-in placebo responders. Patients
+were recruited between January 9, 2018, and February 6, 2019. S. Mesens et al. Molecular Psychiatry (2025) 30:2427 – 2435
+Demographic and clinical characteristics are summarized in
+Table 1. A total of 50 (58.8%) of the eITT patients were diagnosed
+with moderate to severe subjective sleep disorder. The mean (SD)
+baseline ISI score was 17.4 (4.40). The treatment groups were
+similar with respect to the baseline characteristics. Of the 86
+patients in the eITT population, 79 (91.9%) completed the study. The dropout rate was 3.3% in the placebo group and 10.7% in
+each seltorexant dose group. Efﬁcacy
+Changes
+in
+HDRS17
+total
+score
+over
+treatment
+period:
+eITT
+analysis set. The mean (SD) HDRS17 total score at Treatment
+Period baseline (i.e., following the blinded placebo Lead-In Period;
+Fig. 1) was 17.9 (4.69).
+
+[PAPER_0039, relevance_score=0.070] In subsequent clinical studies,
+female participants with MDD, including WOCBP, have received
+seltorexant in phase 2 and phase 3 studies to assess the
+generalizability of the observed safety/efﬁcacy data to WOCBP. S. Mesens et al. Molecular Psychiatry (2025) 30:2427 – 2435
+DATA AVAILABILITY
+The data sharing policy of the Janssen Pharmaceutical Companies of Johnson &
+Johnson is available at https://www.janssen.com/clinical–trials/transparency. As
+noted on this site, requests for access to the clinical study data can be submitted
+through the Yale Open Data Access (YODA) Project site at http://yoda.yale.edu.","The paper states that participants must have MDD without psychotic features, a Montgomery-Åsberg Depression Rating Scale total score ≥25, and not have received antidepressant pharmacotherapy for at least 2 weeks before screening, as seen in [PAPER_0008].","[PREREG_0002, relevance_score=0.113] conditions
+
+conditions → [0]
+Depressive Disorder, Major
+
+design
+
+studyType
+INTERVENTIONAL
+phases → [0]
+PHASE1
+designInfo → allocation
+RANDOMIZED
+designInfo → interventionModel
+PARALLEL
+designInfo → primaryPurpose
+TREATMENT
+designInfo → maskingInfo → masking
+DOUBLE
+designInfo → maskingInfo → whoMasked → [0]
+PARTICIPANT
+designInfo → maskingInfo → whoMasked → [1]
+INVESTIGATOR
+enrollmentInfo → count
+140
+enrollmentInfo → type
+ACTUAL
+
+armsInterventions
+
+armGroups → [0] → label
+Lead-in period: Placebo
+armGroups → [0] → type
+PLACEBO_COMPARATOR
+armGroups → [0] → description
+Participants who successfully complete the baseline examination visit at the clinical site/unit, will be treated with placebo (2 capsules taken orally) for the duration of the lead-in period which will last up to 3 weeks. Investigators and participants will be blinded to exact duration of each participant-specific lead-in period throughout the study.
+
+[PREREG_0004, relevance_score=0.079] armGroups → [1] → interventionNames → [0]
+Drug: JNJ-42847922 20mg
+armGroups → [1] → interventionNames → [1]
+Drug: JNJ-42847922 40mg
+armGroups → [1] → interventionNames → [2]
+Drug: Placebo
+armGroups → [2] → label
+Withdrawal period: Placebo
+armGroups → [2] → type
+PLACEBO_COMPARATOR
+armGroups → [2] → description
+Participants who will complete the treatment period prior to the end of Week 8 will enter the withdrawal period where they will be treated with placebo (2 capsules taken orally) for the remaining time of the double-blind phase of the study. Investigators and participants will be blinded to exact duration of each participant-specific withdrawal period. armGroups → [2] → interventionNames → [0]
+Drug: Placebo
+interventions → [0] → type
+DRUG
+interventions → [0] → name
+JNJ-42847922 20mg
+interventions → [0] → description
+Participants will swallow 20 mg (2\*10 mg) JNJ-42847922 capsule orally for 5 weeks during treatment period.
+
+[PREREG_0006, relevance_score=0.053] interventions → [2] → armGroupLabels → [0]
+Lead-in period: Placebo
+interventions → [2] → armGroupLabels → [1]
+Treatment period: JNJ-42847922 or Placebo
+interventions → [2] → armGroupLabels → [2]
+Withdrawal period: Placebo
+
+outcomes
+
+primaryOutcomes → [0] → measure
+Change From Baseline in Hamilton Rating Scale for Depression-17 (HDRS17) Total Score
+primaryOutcomes → [0] → description
+The HDRS17 is a Clinician-Administered rating scale designed to assess the severity of symptoms in participants diagnosed with depression with a total score range of 0 to 52. It is the most widely used symptom severity measure for depression. Each of the 17 items is rated by the clinician on either a 3- point (0 to 2) or a 5-point scale (0 to 4). The point scale uses a rating of 0 (absent), 1 (doubtful to mild), 2 (mild to moderate), 3 (moderate to severe), and 4 (very severe). Total score will be calculated by summing up the individual item score. The higher the score, the more severe the depression.
+
+[PREREG_0011, relevance_score=0.046] Following the key, the participant is presented with randomly ordered symbols and is required to respond orally by naming the number or enter the number corresponding to each symbol as fast as possible using a keypad. The number of correct substitutions within 90 seconds is recorded by computerized cognitive test battery. secondaryOutcomes → [2] → timeFrame
+Baseline
+secondaryOutcomes → [3] → measure
+Performance Score on a Cognitive Test Battery Evaluated by Word List Recall Test (WLRT)
+secondaryOutcomes → [3] → description
+The WLRT used for the computerized test battery that measures person's ability to encode, consolidate, store, and retrieve verbal information and is a sensitive test of verbal learning and memory in a variety of disease states, including MDD. The memory test will include a list of 15 words presented aloud, one at a time, through the iPad. After the 15-word list is presented, the participant will be asked to verbally recall as many of the words as possible. The 15 word list and participant recall will be conducted 4 more times (total 5 times). After the 5th learning trial and recall, performance on the learning trials of the original word list and on the delayed recall will be considered as the primary scores. The computer tablet will record and score the participant's responses to the evaluation.
+
+[PREREG_0012, relevance_score=0.067] secondaryOutcomes → [3] → timeFrame
+Baseline
+secondaryOutcomes → [4] → measure
+Performance Score on a Cognitive Test Battery Evaluated by Trail Making Test Form B (TMT-B)
+secondaryOutcomes → [4] → description
+The computerized (Revere.D) version of the TMT-B is modeled after the paper-and-pencil version of the test. The TMT-B measures divided attention and executive function (tracking and sequencing). The participant is instructed to draw a line to connect a set of 25 consecutively numbered and lettered circles, alternating sequentially between numbers and letters (that is, 1 A 2 B). The participant is instructed to work as quickly as possible while still maintaining accuracy. The TMT-B has acceptable reliability; reliability coefficients have typically been reported as exceeding 0.65. The TMT-B is sensitive to cognitive decline associated with MDD. secondaryOutcomes → [4] → timeFrame
+Baseline
+secondaryOutcomes → [5] → measure
+Change From Baseline in Bond & Lader (B&L) Visual Analogue Scale (VAS)
+secondaryOutcomes → [5] → description
+The B\&L VAS is made up of 16 pairs of alternative descriptors of mood and attention at either end. The Bond-Lader of a 10 cm line. Participants will rate their feelings at the time of assessment by indicating the point on the line which best represent their mood.
+
+[PREREG_0016, relevance_score=0.107] secondaryOutcomes → [9] → timeFrame
+Up to end of the study (Day 67)
+
+eligibility
+
+eligibilityCriteria
+Inclusion Criteria:
+
+* Have a body mass index (BMI) between 18 and 35 kilogram per meter square (kg/m\^2) inclusive (BMI = weight/height\^2)
+* Participants must be medically stable based on clinical laboratory tests, medical history, vital signs, and 12-lead electrocardiogram (ECG) performed at screening and baseline
+* Population specific: Participant must meet Diagnostic and Statistical Manual of Mental Disorders - fifth edition (DSM-5) diagnostic criteria for MDD (international classification of diseases \[ICD\]-code F32.x and F33.x), without psychotic features, and confirmed by the Mini International Neuropsychiatric Interview (MINI) 7.0; have a Montgomery Asberg Depression Rating Scale (MADRS) total score greater than or equal to (\>=) 25 at screening and must not demonstrate a clinically significant change (that is, an improvement of greater than (\>) 20 percent (%) on their MADRS total score) from the screening to the second completion of MADRS by telephone at most 4 days before the baseline visit; Not currently receiving antidepressant drug therapy for \>= 2 weeks before screening
+* Men who are sexually active with a women of childbearing potential (WOCBP) and have not had a vasectomy must agree to use a barrier method of birth control
+* A woman of childbearing potential must have a negative serum pregnancy test at screening and a negative urine pregnancy test before the first dose
+* A woman must agree not to donate eggs (ova, oocytes) for the purposes of assisted reproduction during the study and for at least 3 months after receiving the last dose of study drug
+
+Exclusion Criteria:
+
+* Has failed more than 2 treatments (no more than 20 percent (%) response) with a differing pharmacological mode of action despite an adequate dose and duration during a previous, or the current depressive episode
+* Has a diagnosis of Cushing's Disease, Addison's Disease, primary amenorrhea, or other evidence of significant medical disorders of the Hypothalamus pituitary adrenal (HPA) axis
+* Is pregnant or breast feeding
+* Participant has received an investigational drug (including investigational vaccines) or used an invasive investigational medical device within 60 days before the planned first dose of study drug, or has participated in 2 or more interventional clinical studies in the previous 1 year, or is currently enrolled in an interventional study
+* Participant is a man who plans to father a child while enrolled in this study or within 3 months after the last dose of study drug
+* Participant has a history of hepatitis B surface antigen (HBsAg) or hepatitis C antibody (anti-HCV) positive, or other clinically active liver disease, or tests positive for HBsAg or anti-HCV at screening
+healthyVolunteers
+False
+sex
+ALL
+minimumAge
+18 Years
+maximumAge
+55 Years
+stdAges → [0]
+ADULT
+
+contactsLocations
+
+overallOfficials → [0] → name
+Janssen Research & Development, LLC Clinical Trial
+overallOfficials → [0] → affiliation
+Janssen Research & Development, LLC
+overallOfficials → [0] → role
+STUDY_DIRECTOR
+locations → [0] → facility
+Artemis Institute for Clinical Research
+locations → [0] → city
+San Diego
+locations → [0] → state
+California
+locations → [0] → zip
+92103
+locations → [0] → country
+United States
+locations → [0] → geoPoint → lat
+32.71571
+locations → [0] → geoPoint → lon
+-117.16472
+locations → [1] → facility
+Artemis Institute for Clinical Research
+locations → [1] → city
+San Marcos
+locations → [1] → state
+California
+locations → [1] → zip
+92078
+locations → [1] → country
+United States
+locations → [1] → geoPoint → lat
+33.14337
+locations → [1] → geoPoint → lon
+-117.16614
+locations → [2] → facility
+Qps-Mra, Llc
+locations → [2] → city
+Miami
+locations → [2] → state
+Florida
+locations → [2] → zip
+33143
+locations → [2] → country
+United States
+locations → [2] → geoPoint → lat
+25.77427
+locations → [2] → geoPoint → lon
+-80.19366
+locations → [3] → facility
+SGS Phase 1 Unit AZ St-Maarten
+locations → [3] → city
+Mechelen
+locations → [3] → zip
+2800
+locations → [3] → country
+Belgium
+locations → [3] → geoPoint → lat
+51.02574
+locations → [3] → geoPoint → lon
+4.47762
+locations → [4] → facility
+Clinical Pharmacology Unit
+locations → [4] → city
+Merksem
+locations → [4] → zip
+2170
+locations → [4] → country
+Belgium
+locations → [4] → geoPoint → lat
+51.24623
+locations → [4] → geoPoint → lon
+4.44903
+locations → [5] → facility
+Charite Research Organisation GmbH
+locations → [5] → city
+Berlin
+locations → [5] → zip
+10117
+locations → [5] → country
+Germany
+locations → [5] → geoPoint → lat
+52.52437
+locations → [5] → geoPoint → lon
+13.41053
+locations → [6] → facility
+Emovis GmbH
+locations → [6] → city
+Berlin
+locations → [6] → zip
+10629
+locations → [6] → country
+Germany
+locations → [6] → geoPoint → lat
+52.52437
+locations → [6] → geoPoint → lon
+13.41053
+locations → [7] → facility
+Fraunhofer-Institut für Toxikologie und Experimentelle Medizin
+locations → [7] → city
+Hanover
+locations → [7] → zip
+30625
+locations → [7] → country
+Germany
+locations → [7] → geoPoint → lat
+52.37052
+locations → [7] → geoPoint → lon
+9.73322
+locations → [8] → facility
+Somni Bene GmbH
+locations → [8] → city
+Schwerin
+locations → [8] → zip
+19053
+locations → [8] → country
+Germany
+locations → [8] → geoPoint → lat
+53.62937
+locations → [8] → geoPoint → lon
+11.41316
+locations → [9] → facility
+Centre for Human Drug Research
+locations → [9] → city
+Leiden
+locations → [9] → zip
+2333 CL
+locations → [9] → country
+Netherlands
+locations → [9] → geoPoint → lat
+52.15833
+locations → [9] → geoPoint → lon
+4.49306
+locations → [10] → facility
+MAC Clinical Research
+locations → [10] → city
+Blackpool
+locations → [10] → zip
+FY2 0JH
+locations → [10] → country
+United Kingdom
+locations → [10] → geoPoint → lat
+53.81667
+locations → [10] → geoPoint → lon
+-3.05
+locations → [11] → facility
+MAC Clinical Research
+locations → [11] → city
+Liverpool
+locations → [11] → zip
+L34 1BH
+locations → [11] → country
+United Kingdom
+locations → [11] → geoPoint → lat
+53.41058
+locations → [11] → geoPoint → lon
+-2.97794
+locations → [12] → facility
+Hammersmith Medicines Research
+locations → [12] → city
+London
+locations → [12] → zip
+NW10 7EW
+locations → [12] → country
+United Kingdom
+locations → [12] → geoPoint → lat
+51.50853
+locations → [12] → geoPoint → lon
+-0.12574
+locations → [13] → facility
+MAC Clinical Research
+locations → [13] → city
+Manchester
+locations → [13] → zip
+M13 9NQ
+locations → [13] → country
+United Kingdom
+locations → [13] → geoPoint → lat
+53.48095
+locations → [13] → geoPoint → lon
+-2.23743
+
+references
+
+references → [0] → pmid
+39663378
+references → [0] → type
+DERIVED
+references → [0] → citation
+Mesens S, Kezic I, Van Der Ark P, Etropolski M, Pandina G, Benes H, Savitz A, Drevets WC.","The registration states that participants must meet specific inclusion criteria, including having a BMI between 18 and 35, being medically stable, meeting DSM-5 diagnostic criteria for MDD without psychotic features, and having a MADRS total score ≥25 at screening, as seen in [PREREG_0016].",yes,"The paper [PAPER_0008] and registration [PREREG_0016] both mention that participants must have MDD without psychotic features and a MADRS total score ≥25. However, the paper does not mention the BMI requirement, medical stability, or the use of the Mini International Neuropsychiatric Interview (MINI) 7.0, which are mentioned in the registration. Additionally, the paper mentions that women of childbearing potential (WOCBP) were excluded, but the registration states that WOCBP must have a negative serum pregnancy test at screening and a negative urine pregnancy test before the first dose, indicating a deviation between the two sources, as seen in [PAPER_0008] and [PREREG_0016]."
+Eligibility: exclusion criteria,"[PAPER_0007, relevance_score=0.060] Randomization occurred after the placebo lead-in period
+and was balanced using randomly permuted blocks stratiﬁed by lead-in
+placebo response status and presence of moderate-severe subjective
+insomnia symptom severity (deﬁned as ISI score >15) and subjective sleep
+disorder (as documented in the sleep diary by subjective Sleep Onset
+Latency (SOL) > 30 min and TST of <6 h at least 3 nights over 7 recorded
+days). Investigators and patients remained blind to the duration of the
+lead-in and withdrawal periods (combined 21 days) and to the lead-in
+placebo response criteria. Dosage and administration
+Visually identical capsules were self-administered (2 capsules orally, once
+daily) over 8 weeks, 15 min before bedtime, and consisted of 20 mg
+seltorexant (2 capsules of 10 mg), 40 mg seltorexant (2 capsules of 20 mg),
+or placebo (2 capsules). Fig. 1
+Study Design. This phase 1 study consisted of a screening phase (up to 3 weeks), a double-blind treatment phase (8 weeks), and a
+follow-up phase (1 week). The double-blind treatment phase consisted of 3 periods: a blinded placebo lead-in period, a treatment period
+(5 weeks), and a blinded placebo withdrawal period. The study duration for each patient was ~13 weeks.
+
+[PAPER_0008, relevance_score=0.073] MDD, major depressive disorder;
+MADRS, Montgomery–Åsberg Depression Rating Scale; HDRS17, Hamilton Depression Rating Scale-17; green dotted line, placebo responders
+based on reduction from lead-in baseline in HDRS17; purple dotted line, placebo non-responders based on reduction from lead-in HDRS17;
+gold solid line, contributes to primary analysis. S. Mesens et al. Molecular Psychiatry (2025) 30:2427 – 2435
+Study population
+Participants with MDD per Diagnostic and Statistical Manual of Mental
+Disorders, Fifth Edition, without psychotic features, and moderate to severe
+depression severity assessed by a Montgomery-Åsberg Depression Rating
+Scale total score ≥25 at screening were enrolled. Participants had not
+received antidepressant pharmacotherapy for at least 2 weeks before
+screening. Participants were not withdrawn from current antidepressant
+treatment for the purpose of the study. Volunteers were excluded from
+participation if they had experienced clinically signiﬁcant suicidal behavior
+or serious suicidal ideation within 6 months, moderate or severe substance
+abuse disorder, primary or current diagnosis of other psychiatric conditions
+(ie. primary diagnosis of anxiety disorders, bipolar disorder, psychotic
+disorder), or lack of response to more than 2 treatments in the current
+episode (<25% response; Additionally, women of childbearing potential
+(WOCBP) were excluded.
+
+[PAPER_0009, relevance_score=0.061] Treatment with sedative hypnotics of the
+benzodiazepine or GABAA receptor agonist classes, opioid analgesics or
+antipsychotic agents was not allowed from screening throughout the
+study. Ongoing psychotherapy (if initiated more than 2 months prior to
+randomization) was allowed. The study protocols were reviewed by an
+independent ethics committee or institutional review board at each site
+(e.g., EC UZA [reference number: 17/43/491]; CCMO NL [reference number:
+NL63487.056.17]) and conducted following the principles of Good Clinical
+Practice derived from the Declaration of Helsinki, and in accordance with
+local regulations and International Council of Harmonization guidelines. Patients or their legal representatives provided their written informed
+consent to participate in the study. Analysis sets
+The “enriched” intent-to-treat analysis set (eITT) evaluated for efﬁcacy was
+deﬁned as all enrolled lead-in placebo non-responders (placebo response
+was deﬁned by ≥30% reduction from baseline in HDRS17 total score at the
+end of the placebo lead-in period) randomized into the treatment period
+who received ≥1 dose of study medication and had ≥1 post-baseline
+HDRS17 assessment during the treatment period.
+
+[PAPER_0010, relevance_score=0.082] Safety information was
+summarized using the full safety analysis set, deﬁned as participants who
+received ≥1 dose of study medication. Sample size determination
+An estimated 26 patients in each treatment group (78 total) were planned to
+complete the study in the enriched patient population after excluding
+placebo-responders in the placebo lead-in phase. The study sample size
+chosen (N = 78 non-placebo responders completing the study) was
+expected to allow investigation of the potential effect of seltorexant relative
+to placebo on symptoms of depression based upon power calculations that
+used data from a previous study conducted using the same compound in a
+similar patient population [15]. Assuming a standard deviation (SD) of 5.8 for
+the treatment difference in HDRS17 total score observed in this previous
+study [15], the calculated sample size allowed detection of a difference
+between any seltorexant group and placebo of 3.4 points and 4.2 points,
+respectively, at 20 and 10% one-sided signiﬁcance levels with 90% power. This translated to effect sizes of 0.59 and 0.72, respectively, which were
+comparable to the effect size previously observed [15]. To achieve this eITT sample size, 138 participants were planned to enter
+the lead-in period.
+
+[PAPER_0032, relevance_score=0.063] Molecular Psychiatry (2025) 30:2427 – 2435
+monotherapy 20 mg qhs compared to placebo in the mean
+change from baseline in HDRS17 total score at Treatment week 5
+in the eITT population of patients with MDD. In subgroups from
+the eITT population who manifested subjective sleep disorder,
+based partly on baseline ISI score > 15, or prominent ruminations,
+based on baseline RRS score ≥50, seltorexant showed greater
+treatment effects than in the patient subgroups with lower levels
+of sleep disturbance and ruminations. These results are consistent with ﬁndings from a previous study
+of individuals with MDD in which seltorexant was administered
+adjunctively to an antidepressant (SSRI/SNRI) to which the
+participants had shown inadequate response [6]. In both that
+study and the current study the treatment effect for 20 mg
+seltorexant had a moderate effect size and was statistically
+signiﬁcant, while the corresponding improvement on the 40 mg
+dose of seltorexant did not reach statistical signiﬁcance. In both
+studies the antidepressant effects of seltorexant were more
+pronounced in patients with moderate to severe insomnia
+symptoms.
+
+[PAPER_0037, relevance_score=0.107] Notably, this strong treatment effect was observed despite the
+design limitation that the 1:1:1 randomization schedule limited the
+placebo expectancy to only 0.33, a design element which generally
+is associated with a larger placebo effect in studies of MDD [25, 26]. Limitations
+The study focuses on results in the placebo non-responder
+population, and although the full ITT (fITT) sample (placebo responder
+and non-responder population) showed similar trends, the magnitude
+of the treatment effects was lower in the fITT sample than in the eITT
+sample. The double-blind placebo lead-in period was used to
+proactively exclude early placebo responders from the primary
+efﬁcacy analysis, and to reduce potential effects of expectation and
+incentive biases from the study [27]. This approach is hypothesized to
+enhance the likelihood of obtaining a reliable estimate of treatment
+effect in the enriched population (i.e., based on showing a minimal
+response to placebo in the blinded lead in phase). However, disadvantages to this study design include the
+requirements for a longer study duration and larger sample size
+compared to a simple parallel design of same statistical character-
+istics. The longer duration prolongs the time during which
+depressed patients do not receive active antidepressant treatment
+while participating in the clinical trial.","The paper excludes participants with clinically significant suicidal behavior, substance abuse disorder, other psychiatric conditions, or lack of response to more than 2 treatments, as well as women of childbearing potential, as stated in [PAPER_0008] and [PAPER_0009].","[PREREG_0002, relevance_score=0.099] conditions
+
+conditions → [0]
+Depressive Disorder, Major
+
+design
+
+studyType
+INTERVENTIONAL
+phases → [0]
+PHASE1
+designInfo → allocation
+RANDOMIZED
+designInfo → interventionModel
+PARALLEL
+designInfo → primaryPurpose
+TREATMENT
+designInfo → maskingInfo → masking
+DOUBLE
+designInfo → maskingInfo → whoMasked → [0]
+PARTICIPANT
+designInfo → maskingInfo → whoMasked → [1]
+INVESTIGATOR
+enrollmentInfo → count
+140
+enrollmentInfo → type
+ACTUAL
+
+armsInterventions
+
+armGroups → [0] → label
+Lead-in period: Placebo
+armGroups → [0] → type
+PLACEBO_COMPARATOR
+armGroups → [0] → description
+Participants who successfully complete the baseline examination visit at the clinical site/unit, will be treated with placebo (2 capsules taken orally) for the duration of the lead-in period which will last up to 3 weeks. Investigators and participants will be blinded to exact duration of each participant-specific lead-in period throughout the study.
+
+[PREREG_0004, relevance_score=0.056] armGroups → [1] → interventionNames → [0]
+Drug: JNJ-42847922 20mg
+armGroups → [1] → interventionNames → [1]
+Drug: JNJ-42847922 40mg
+armGroups → [1] → interventionNames → [2]
+Drug: Placebo
+armGroups → [2] → label
+Withdrawal period: Placebo
+armGroups → [2] → type
+PLACEBO_COMPARATOR
+armGroups → [2] → description
+Participants who will complete the treatment period prior to the end of Week 8 will enter the withdrawal period where they will be treated with placebo (2 capsules taken orally) for the remaining time of the double-blind phase of the study. Investigators and participants will be blinded to exact duration of each participant-specific withdrawal period. armGroups → [2] → interventionNames → [0]
+Drug: Placebo
+interventions → [0] → type
+DRUG
+interventions → [0] → name
+JNJ-42847922 20mg
+interventions → [0] → description
+Participants will swallow 20 mg (2\*10 mg) JNJ-42847922 capsule orally for 5 weeks during treatment period.
+
+[PREREG_0007, relevance_score=0.042] primaryOutcomes → [0] → timeFrame
+Baseline up to Day 57
+primaryOutcomes → [1] → measure
+Change From Baseline in Hamilton Rating Scale for Depression-17 (HDRS17) Sleep Item-Adjusted Total Score
+primaryOutcomes → [1] → description
+The HDRS17 is a Clinician-Administered rating scale designed to assess the severity of symptoms in participants diagnosed with depression with a score range of 0 to 52. It is the most widely used symptom severity measure for depression. Each of the 17 items is rated by the clinician on either a 3- point (0 to 2) or a 5-point scale (0 to 4). The point scale uses a rating of 0 (absent), 1 (doubtful to mild), 2 (mild to moderate), 3 (moderate to severe), and 4 (very severe). Higher scores indicate worsening. HDRS17 Sleep Item-Adjusted is derived from the HDRS17 scale excluding the 3 sleep items (4, 5, and 6) from the total score.
+
+[PREREG_0009, relevance_score=0.055] primaryOutcomes → [2] → timeFrame
+Baseline up to Day 57
+primaryOutcomes → [3] → measure
+Change From Baseline in 6 Item Subscale From HDRS17 (HAM-D6) Score
+primaryOutcomes → [3] → description
+The 6-Item Hamilton Depression Scale (HAMD-6), derived by the sum of HAMD-17 items (the six items in the HAM-D6 are: depressed mood, guilt feelings, work and interests, psychomotor retardation, psychic anxiety, and general somatics \[tiredness and pains\]), evaluates ""core"" symptoms of Major Depressive Disorder (MDD). Total subscale scores range from 0 (normal) to 22 (severe). The higher the score, the more severe the depression. primaryOutcomes → [3] → timeFrame
+Baseline up to Day 57
+secondaryOutcomes → [0] → measure
+Change From Baseline in Quick Inventory of Depressive Symptomatology-Self Report (QIDS-SR16)
+secondaryOutcomes → [0] → description
+The QIDS-SR16 is a patient reported measure designed to assess the severity of depressive symptoms. The total score ranges from 0 to 27.
+
+[PREREG_0012, relevance_score=0.074] secondaryOutcomes → [3] → timeFrame
+Baseline
+secondaryOutcomes → [4] → measure
+Performance Score on a Cognitive Test Battery Evaluated by Trail Making Test Form B (TMT-B)
+secondaryOutcomes → [4] → description
+The computerized (Revere.D) version of the TMT-B is modeled after the paper-and-pencil version of the test. The TMT-B measures divided attention and executive function (tracking and sequencing). The participant is instructed to draw a line to connect a set of 25 consecutively numbered and lettered circles, alternating sequentially between numbers and letters (that is, 1 A 2 B). The participant is instructed to work as quickly as possible while still maintaining accuracy. The TMT-B has acceptable reliability; reliability coefficients have typically been reported as exceeding 0.65. The TMT-B is sensitive to cognitive decline associated with MDD. secondaryOutcomes → [4] → timeFrame
+Baseline
+secondaryOutcomes → [5] → measure
+Change From Baseline in Bond & Lader (B&L) Visual Analogue Scale (VAS)
+secondaryOutcomes → [5] → description
+The B\&L VAS is made up of 16 pairs of alternative descriptors of mood and attention at either end. The Bond-Lader of a 10 cm line. Participants will rate their feelings at the time of assessment by indicating the point on the line which best represent their mood.
+
+[PREREG_0016, relevance_score=0.083] secondaryOutcomes → [9] → timeFrame
+Up to end of the study (Day 67)
+
+eligibility
+
+eligibilityCriteria
+Inclusion Criteria:
+
+* Have a body mass index (BMI) between 18 and 35 kilogram per meter square (kg/m\^2) inclusive (BMI = weight/height\^2)
+* Participants must be medically stable based on clinical laboratory tests, medical history, vital signs, and 12-lead electrocardiogram (ECG) performed at screening and baseline
+* Population specific: Participant must meet Diagnostic and Statistical Manual of Mental Disorders - fifth edition (DSM-5) diagnostic criteria for MDD (international classification of diseases \[ICD\]-code F32.x and F33.x), without psychotic features, and confirmed by the Mini International Neuropsychiatric Interview (MINI) 7.0; have a Montgomery Asberg Depression Rating Scale (MADRS) total score greater than or equal to (\>=) 25 at screening and must not demonstrate a clinically significant change (that is, an improvement of greater than (\>) 20 percent (%) on their MADRS total score) from the screening to the second completion of MADRS by telephone at most 4 days before the baseline visit; Not currently receiving antidepressant drug therapy for \>= 2 weeks before screening
+* Men who are sexually active with a women of childbearing potential (WOCBP) and have not had a vasectomy must agree to use a barrier method of birth control
+* A woman of childbearing potential must have a negative serum pregnancy test at screening and a negative urine pregnancy test before the first dose
+* A woman must agree not to donate eggs (ova, oocytes) for the purposes of assisted reproduction during the study and for at least 3 months after receiving the last dose of study drug
+
+Exclusion Criteria:
+
+* Has failed more than 2 treatments (no more than 20 percent (%) response) with a differing pharmacological mode of action despite an adequate dose and duration during a previous, or the current depressive episode
+* Has a diagnosis of Cushing's Disease, Addison's Disease, primary amenorrhea, or other evidence of significant medical disorders of the Hypothalamus pituitary adrenal (HPA) axis
+* Is pregnant or breast feeding
+* Participant has received an investigational drug (including investigational vaccines) or used an invasive investigational medical device within 60 days before the planned first dose of study drug, or has participated in 2 or more interventional clinical studies in the previous 1 year, or is currently enrolled in an interventional study
+* Participant is a man who plans to father a child while enrolled in this study or within 3 months after the last dose of study drug
+* Participant has a history of hepatitis B surface antigen (HBsAg) or hepatitis C antibody (anti-HCV) positive, or other clinically active liver disease, or tests positive for HBsAg or anti-HCV at screening
+healthyVolunteers
+False
+sex
+ALL
+minimumAge
+18 Years
+maximumAge
+55 Years
+stdAges → [0]
+ADULT
+
+contactsLocations
+
+overallOfficials → [0] → name
+Janssen Research & Development, LLC Clinical Trial
+overallOfficials → [0] → affiliation
+Janssen Research & Development, LLC
+overallOfficials → [0] → role
+STUDY_DIRECTOR
+locations → [0] → facility
+Artemis Institute for Clinical Research
+locations → [0] → city
+San Diego
+locations → [0] → state
+California
+locations → [0] → zip
+92103
+locations → [0] → country
+United States
+locations → [0] → geoPoint → lat
+32.71571
+locations → [0] → geoPoint → lon
+-117.16472
+locations → [1] → facility
+Artemis Institute for Clinical Research
+locations → [1] → city
+San Marcos
+locations → [1] → state
+California
+locations → [1] → zip
+92078
+locations → [1] → country
+United States
+locations → [1] → geoPoint → lat
+33.14337
+locations → [1] → geoPoint → lon
+-117.16614
+locations → [2] → facility
+Qps-Mra, Llc
+locations → [2] → city
+Miami
+locations → [2] → state
+Florida
+locations → [2] → zip
+33143
+locations → [2] → country
+United States
+locations → [2] → geoPoint → lat
+25.77427
+locations → [2] → geoPoint → lon
+-80.19366
+locations → [3] → facility
+SGS Phase 1 Unit AZ St-Maarten
+locations → [3] → city
+Mechelen
+locations → [3] → zip
+2800
+locations → [3] → country
+Belgium
+locations → [3] → geoPoint → lat
+51.02574
+locations → [3] → geoPoint → lon
+4.47762
+locations → [4] → facility
+Clinical Pharmacology Unit
+locations → [4] → city
+Merksem
+locations → [4] → zip
+2170
+locations → [4] → country
+Belgium
+locations → [4] → geoPoint → lat
+51.24623
+locations → [4] → geoPoint → lon
+4.44903
+locations → [5] → facility
+Charite Research Organisation GmbH
+locations → [5] → city
+Berlin
+locations → [5] → zip
+10117
+locations → [5] → country
+Germany
+locations → [5] → geoPoint → lat
+52.52437
+locations → [5] → geoPoint → lon
+13.41053
+locations → [6] → facility
+Emovis GmbH
+locations → [6] → city
+Berlin
+locations → [6] → zip
+10629
+locations → [6] → country
+Germany
+locations → [6] → geoPoint → lat
+52.52437
+locations → [6] → geoPoint → lon
+13.41053
+locations → [7] → facility
+Fraunhofer-Institut für Toxikologie und Experimentelle Medizin
+locations → [7] → city
+Hanover
+locations → [7] → zip
+30625
+locations → [7] → country
+Germany
+locations → [7] → geoPoint → lat
+52.37052
+locations → [7] → geoPoint → lon
+9.73322
+locations → [8] → facility
+Somni Bene GmbH
+locations → [8] → city
+Schwerin
+locations → [8] → zip
+19053
+locations → [8] → country
+Germany
+locations → [8] → geoPoint → lat
+53.62937
+locations → [8] → geoPoint → lon
+11.41316
+locations → [9] → facility
+Centre for Human Drug Research
+locations → [9] → city
+Leiden
+locations → [9] → zip
+2333 CL
+locations → [9] → country
+Netherlands
+locations → [9] → geoPoint → lat
+52.15833
+locations → [9] → geoPoint → lon
+4.49306
+locations → [10] → facility
+MAC Clinical Research
+locations → [10] → city
+Blackpool
+locations → [10] → zip
+FY2 0JH
+locations → [10] → country
+United Kingdom
+locations → [10] → geoPoint → lat
+53.81667
+locations → [10] → geoPoint → lon
+-3.05
+locations → [11] → facility
+MAC Clinical Research
+locations → [11] → city
+Liverpool
+locations → [11] → zip
+L34 1BH
+locations → [11] → country
+United Kingdom
+locations → [11] → geoPoint → lat
+53.41058
+locations → [11] → geoPoint → lon
+-2.97794
+locations → [12] → facility
+Hammersmith Medicines Research
+locations → [12] → city
+London
+locations → [12] → zip
+NW10 7EW
+locations → [12] → country
+United Kingdom
+locations → [12] → geoPoint → lat
+51.50853
+locations → [12] → geoPoint → lon
+-0.12574
+locations → [13] → facility
+MAC Clinical Research
+locations → [13] → city
+Manchester
+locations → [13] → zip
+M13 9NQ
+locations → [13] → country
+United Kingdom
+locations → [13] → geoPoint → lat
+53.48095
+locations → [13] → geoPoint → lon
+-2.23743
+
+references
+
+references → [0] → pmid
+39663378
+references → [0] → type
+DERIVED
+references → [0] → citation
+Mesens S, Kezic I, Van Der Ark P, Etropolski M, Pandina G, Benes H, Savitz A, Drevets WC.","The registration excludes participants who have failed more than 2 treatments, have certain medical disorders, are pregnant or breastfeeding, among other criteria, as stated in [PREREG_0016].",yes,"The paper [PAPER_0008] and registration [PREREG_0016] have different exclusion criteria, such as the paper excluding women of childbearing potential, while the registration does not explicitly state this, but does exclude pregnant or breastfeeding women. Additionally, the paper excludes participants with a lack of response to more than 2 treatments in the current episode with less than 25% response, whereas the registration excludes participants who have failed more than 2 treatments with no more than 20% response, as seen in [PAPER_0008] and [PREREG_0016]."
+Design: Intervention/treatment information,"[PAPER_0005, relevance_score=0.084] A secondary objective
+was
+to
+investigate differential effects of seltorexant as compared to
+placebo on HDRS17 in patients with and without subjective
+insomnia. Moreover, the mechanisms that may underlie seltorex-
+ant’s antidepressant effects and dose response relationship were
+explored by evaluating its effects in depressed participants with
+high versus low levels of rumination, and on polysomnography
+and serum cortisol levels. The doses tested in the current trial were selected based on the
+results of previous trials using seltorexant in MDD. In the initial
+exploratory study in antidepressant-treated MDD patients with
+persistent insomnia cited above, single doses of seltorexant at 10-,
+20-, and 40-mg signiﬁcantly decreased the latency to persistent
+sleep, and increased TST and SE, with the 20- and 40-mg doses
+providing comparable efﬁcacy on these sleep measures [13]. In
+the 6-week double-blind, placebo-controlled study, 20- but not
+10- or 40-mg seltorexant qhs showed signiﬁcant efﬁcacy when
+administered adjunctively to an SSRI/SNRI in MDD patients,
+although the 40 mg dose showed similar antidepressant response
+and remission rates as the 20 mg dose [6].
+
+[PAPER_0006, relevance_score=0.076] The current study was
+designed to assess seltorexant’s antidepressant efﬁcacy as a
+monotherapy, and to assess whether the trend toward greater
+efﬁcacy observed at the 20 mg dose as compared to the 40 mg
+dose was reproducible. METHODS
+Trial design
+This multicenter, placebo-controlled, randomized, double-blind, study
+assessed the efﬁcacy, mechanism of action, and safety of seltorexant in
+MDD patients not currently receiving antidepressant therapy. Brieﬂy, the
+study consisted of a screening phase (up to 3 weeks), a double-blind
+treatment phase (8 weeks), and a follow-up phase (1 week) (Fig. 1). The
+double-blind treatment phase consisted of 3 periods: a blinded placebo
+lead-in period, a treatment period (5 weeks), and a blinded placebo
+withdrawal period. The study duration for each patient was ~13 weeks. Fourteen centers across 5 countries (Belgium, Germany, United Kingdom,
+Netherlands, and the US) were involved. The study protocol and
+amendment(s) were reviewed by an Institutional Review Board. Randomization and blinding
+Patients were randomized 1:1:1 to receive placebo, 20-, or 40-mg
+seltorexant.
+
+[PAPER_0010, relevance_score=0.080] Safety information was
+summarized using the full safety analysis set, deﬁned as participants who
+received ≥1 dose of study medication. Sample size determination
+An estimated 26 patients in each treatment group (78 total) were planned to
+complete the study in the enriched patient population after excluding
+placebo-responders in the placebo lead-in phase. The study sample size
+chosen (N = 78 non-placebo responders completing the study) was
+expected to allow investigation of the potential effect of seltorexant relative
+to placebo on symptoms of depression based upon power calculations that
+used data from a previous study conducted using the same compound in a
+similar patient population [15]. Assuming a standard deviation (SD) of 5.8 for
+the treatment difference in HDRS17 total score observed in this previous
+study [15], the calculated sample size allowed detection of a difference
+between any seltorexant group and placebo of 3.4 points and 4.2 points,
+respectively, at 20 and 10% one-sided signiﬁcance levels with 90% power. This translated to effect sizes of 0.59 and 0.72, respectively, which were
+comparable to the effect size previously observed [15]. To achieve this eITT sample size, 138 participants were planned to enter
+the lead-in period.
+
+[PAPER_0014, relevance_score=0.081] Statistical methods
+The primary hypothesis tested was that seltorexant is superior to placebo
+in the treatment of MDD when given as a monotherapy. A secondary
+objective was that the antidepressant treatment effect would be greater in
+patients with moderate-severe insomnia. The effect of seltorexant on
+symptoms of depression during the treatment period was evaluated using
+change from treatment baseline in HDRS17 total score, HDRS17 Sleep Item-
+Adjusted score and HDRSAM-6 score during the treatment period. [14]. The primary hypothesis was tested by comparing the changes in HDRS17
+total score after treatment Week 5 using a mixed-effects model for
+repeated measures (MMRM), with subject as random factor; presence of
+subjective sleep disorder, time, treatment (placebo, seltorexant) and time-
+by-treatment interaction as factors and treatment baseline score as a
+continuous
+covariate.
+
+[PAPER_0029, relevance_score=0.067] The most common AESIs during the treatment period were sleep
+paralysis (7.1% [3/42] in the 20 mg group, 7.3% [3/41] in the 40 mg
+group), abnormal dreams (4.8% [2/42] in the 20 mg group, 9.8%
+[4/41] in the 40 mg group, 4.5% [2/44] in the placebo group), and
+nightmare (9.8% [4/41] in the 40 mg group). There were no
+signiﬁcant changes across groups on vital signs (including weight),
+laboratory measures, or ECG. Suicidal ideation/behavior. No patient reported suicidal behavior
+during the study. The numbers (percent) of participants with
+suicidal ideation as assessed using the CSSRS were 7 (16.7%)
+patients at lead-in baseline and 2 (5.4%) at Treatment Week 5 in
+the seltorexant 20 mg group, 5 (12.2%) patients at lead-in baseline
+and 1 (2.7%) at Treatment Week 5 in the seltorexant 40 mg group,
+and 3 (6.8%) patients at lead-in baseline and 3 (7.1%) at Treatment
+Week 5 in the placebo group.
+
+[PAPER_0037, relevance_score=0.095] Notably, this strong treatment effect was observed despite the
+design limitation that the 1:1:1 randomization schedule limited the
+placebo expectancy to only 0.33, a design element which generally
+is associated with a larger placebo effect in studies of MDD [25, 26]. Limitations
+The study focuses on results in the placebo non-responder
+population, and although the full ITT (fITT) sample (placebo responder
+and non-responder population) showed similar trends, the magnitude
+of the treatment effects was lower in the fITT sample than in the eITT
+sample. The double-blind placebo lead-in period was used to
+proactively exclude early placebo responders from the primary
+efﬁcacy analysis, and to reduce potential effects of expectation and
+incentive biases from the study [27]. This approach is hypothesized to
+enhance the likelihood of obtaining a reliable estimate of treatment
+effect in the enriched population (i.e., based on showing a minimal
+response to placebo in the blinded lead in phase). However, disadvantages to this study design include the
+requirements for a longer study duration and larger sample size
+compared to a simple parallel design of same statistical character-
+istics. The longer duration prolongs the time during which
+depressed patients do not receive active antidepressant treatment
+while participating in the clinical trial.","The paper describes a study designed to assess the efficacy of seltorexant as a monotherapy for MDD, with patients randomized to receive either placebo, 20mg seltorexant, or 40mg seltorexant [PAPER_0005, PAPER_0006].","[PREREG_0002, relevance_score=0.118] conditions
+
+conditions → [0]
+Depressive Disorder, Major
+
+design
+
+studyType
+INTERVENTIONAL
+phases → [0]
+PHASE1
+designInfo → allocation
+RANDOMIZED
+designInfo → interventionModel
+PARALLEL
+designInfo → primaryPurpose
+TREATMENT
+designInfo → maskingInfo → masking
+DOUBLE
+designInfo → maskingInfo → whoMasked → [0]
+PARTICIPANT
+designInfo → maskingInfo → whoMasked → [1]
+INVESTIGATOR
+enrollmentInfo → count
+140
+enrollmentInfo → type
+ACTUAL
+
+armsInterventions
+
+armGroups → [0] → label
+Lead-in period: Placebo
+armGroups → [0] → type
+PLACEBO_COMPARATOR
+armGroups → [0] → description
+Participants who successfully complete the baseline examination visit at the clinical site/unit, will be treated with placebo (2 capsules taken orally) for the duration of the lead-in period which will last up to 3 weeks. Investigators and participants will be blinded to exact duration of each participant-specific lead-in period throughout the study.
+
+[PREREG_0004, relevance_score=0.091] armGroups → [1] → interventionNames → [0]
+Drug: JNJ-42847922 20mg
+armGroups → [1] → interventionNames → [1]
+Drug: JNJ-42847922 40mg
+armGroups → [1] → interventionNames → [2]
+Drug: Placebo
+armGroups → [2] → label
+Withdrawal period: Placebo
+armGroups → [2] → type
+PLACEBO_COMPARATOR
+armGroups → [2] → description
+Participants who will complete the treatment period prior to the end of Week 8 will enter the withdrawal period where they will be treated with placebo (2 capsules taken orally) for the remaining time of the double-blind phase of the study. Investigators and participants will be blinded to exact duration of each participant-specific withdrawal period. armGroups → [2] → interventionNames → [0]
+Drug: Placebo
+interventions → [0] → type
+DRUG
+interventions → [0] → name
+JNJ-42847922 20mg
+interventions → [0] → description
+Participants will swallow 20 mg (2\*10 mg) JNJ-42847922 capsule orally for 5 weeks during treatment period.
+
+[PREREG_0005, relevance_score=0.081] interventions → [0] → armGroupLabels → [0]
+Treatment period: JNJ-42847922 or Placebo
+interventions → [1] → type
+DRUG
+interventions → [1] → name
+JNJ-42847922 40mg
+interventions → [1] → description
+Participants will swallow 40 mg (2\*20 mg) JNJ-42847922 capsule orally for 5 weeks during treatment period. interventions → [1] → armGroupLabels → [0]
+Treatment period: JNJ-42847922 or Placebo
+interventions → [2] → type
+DRUG
+interventions → [2] → name
+Placebo
+interventions → [2] → description
+All participants will receive matching placebo capsule during lead in period, treatment period and withdrawal period.
+
+[PREREG_0006, relevance_score=0.069] interventions → [2] → armGroupLabels → [0]
+Lead-in period: Placebo
+interventions → [2] → armGroupLabels → [1]
+Treatment period: JNJ-42847922 or Placebo
+interventions → [2] → armGroupLabels → [2]
+Withdrawal period: Placebo
+
+outcomes
+
+primaryOutcomes → [0] → measure
+Change From Baseline in Hamilton Rating Scale for Depression-17 (HDRS17) Total Score
+primaryOutcomes → [0] → description
+The HDRS17 is a Clinician-Administered rating scale designed to assess the severity of symptoms in participants diagnosed with depression with a total score range of 0 to 52. It is the most widely used symptom severity measure for depression. Each of the 17 items is rated by the clinician on either a 3- point (0 to 2) or a 5-point scale (0 to 4). The point scale uses a rating of 0 (absent), 1 (doubtful to mild), 2 (mild to moderate), 3 (moderate to severe), and 4 (very severe). Total score will be calculated by summing up the individual item score. The higher the score, the more severe the depression.
+
+[PREREG_0009, relevance_score=0.058] primaryOutcomes → [2] → timeFrame
+Baseline up to Day 57
+primaryOutcomes → [3] → measure
+Change From Baseline in 6 Item Subscale From HDRS17 (HAM-D6) Score
+primaryOutcomes → [3] → description
+The 6-Item Hamilton Depression Scale (HAMD-6), derived by the sum of HAMD-17 items (the six items in the HAM-D6 are: depressed mood, guilt feelings, work and interests, psychomotor retardation, psychic anxiety, and general somatics \[tiredness and pains\]), evaluates ""core"" symptoms of Major Depressive Disorder (MDD). Total subscale scores range from 0 (normal) to 22 (severe). The higher the score, the more severe the depression. primaryOutcomes → [3] → timeFrame
+Baseline up to Day 57
+secondaryOutcomes → [0] → measure
+Change From Baseline in Quick Inventory of Depressive Symptomatology-Self Report (QIDS-SR16)
+secondaryOutcomes → [0] → description
+The QIDS-SR16 is a patient reported measure designed to assess the severity of depressive symptoms. The total score ranges from 0 to 27.
+
+[PREREG_0016, relevance_score=0.056] secondaryOutcomes → [9] → timeFrame
+Up to end of the study (Day 67)
+
+eligibility
+
+eligibilityCriteria
+Inclusion Criteria:
+
+* Have a body mass index (BMI) between 18 and 35 kilogram per meter square (kg/m\^2) inclusive (BMI = weight/height\^2)
+* Participants must be medically stable based on clinical laboratory tests, medical history, vital signs, and 12-lead electrocardiogram (ECG) performed at screening and baseline
+* Population specific: Participant must meet Diagnostic and Statistical Manual of Mental Disorders - fifth edition (DSM-5) diagnostic criteria for MDD (international classification of diseases \[ICD\]-code F32.x and F33.x), without psychotic features, and confirmed by the Mini International Neuropsychiatric Interview (MINI) 7.0; have a Montgomery Asberg Depression Rating Scale (MADRS) total score greater than or equal to (\>=) 25 at screening and must not demonstrate a clinically significant change (that is, an improvement of greater than (\>) 20 percent (%) on their MADRS total score) from the screening to the second completion of MADRS by telephone at most 4 days before the baseline visit; Not currently receiving antidepressant drug therapy for \>= 2 weeks before screening
+* Men who are sexually active with a women of childbearing potential (WOCBP) and have not had a vasectomy must agree to use a barrier method of birth control
+* A woman of childbearing potential must have a negative serum pregnancy test at screening and a negative urine pregnancy test before the first dose
+* A woman must agree not to donate eggs (ova, oocytes) for the purposes of assisted reproduction during the study and for at least 3 months after receiving the last dose of study drug
+
+Exclusion Criteria:
+
+* Has failed more than 2 treatments (no more than 20 percent (%) response) with a differing pharmacological mode of action despite an adequate dose and duration during a previous, or the current depressive episode
+* Has a diagnosis of Cushing's Disease, Addison's Disease, primary amenorrhea, or other evidence of significant medical disorders of the Hypothalamus pituitary adrenal (HPA) axis
+* Is pregnant or breast feeding
+* Participant has received an investigational drug (including investigational vaccines) or used an invasive investigational medical device within 60 days before the planned first dose of study drug, or has participated in 2 or more interventional clinical studies in the previous 1 year, or is currently enrolled in an interventional study
+* Participant is a man who plans to father a child while enrolled in this study or within 3 months after the last dose of study drug
+* Participant has a history of hepatitis B surface antigen (HBsAg) or hepatitis C antibody (anti-HCV) positive, or other clinically active liver disease, or tests positive for HBsAg or anti-HCV at screening
+healthyVolunteers
+False
+sex
+ALL
+minimumAge
+18 Years
+maximumAge
+55 Years
+stdAges → [0]
+ADULT
+
+contactsLocations
+
+overallOfficials → [0] → name
+Janssen Research & Development, LLC Clinical Trial
+overallOfficials → [0] → affiliation
+Janssen Research & Development, LLC
+overallOfficials → [0] → role
+STUDY_DIRECTOR
+locations → [0] → facility
+Artemis Institute for Clinical Research
+locations → [0] → city
+San Diego
+locations → [0] → state
+California
+locations → [0] → zip
+92103
+locations → [0] → country
+United States
+locations → [0] → geoPoint → lat
+32.71571
+locations → [0] → geoPoint → lon
+-117.16472
+locations → [1] → facility
+Artemis Institute for Clinical Research
+locations → [1] → city
+San Marcos
+locations → [1] → state
+California
+locations → [1] → zip
+92078
+locations → [1] → country
+United States
+locations → [1] → geoPoint → lat
+33.14337
+locations → [1] → geoPoint → lon
+-117.16614
+locations → [2] → facility
+Qps-Mra, Llc
+locations → [2] → city
+Miami
+locations → [2] → state
+Florida
+locations → [2] → zip
+33143
+locations → [2] → country
+United States
+locations → [2] → geoPoint → lat
+25.77427
+locations → [2] → geoPoint → lon
+-80.19366
+locations → [3] → facility
+SGS Phase 1 Unit AZ St-Maarten
+locations → [3] → city
+Mechelen
+locations → [3] → zip
+2800
+locations → [3] → country
+Belgium
+locations → [3] → geoPoint → lat
+51.02574
+locations → [3] → geoPoint → lon
+4.47762
+locations → [4] → facility
+Clinical Pharmacology Unit
+locations → [4] → city
+Merksem
+locations → [4] → zip
+2170
+locations → [4] → country
+Belgium
+locations → [4] → geoPoint → lat
+51.24623
+locations → [4] → geoPoint → lon
+4.44903
+locations → [5] → facility
+Charite Research Organisation GmbH
+locations → [5] → city
+Berlin
+locations → [5] → zip
+10117
+locations → [5] → country
+Germany
+locations → [5] → geoPoint → lat
+52.52437
+locations → [5] → geoPoint → lon
+13.41053
+locations → [6] → facility
+Emovis GmbH
+locations → [6] → city
+Berlin
+locations → [6] → zip
+10629
+locations → [6] → country
+Germany
+locations → [6] → geoPoint → lat
+52.52437
+locations → [6] → geoPoint → lon
+13.41053
+locations → [7] → facility
+Fraunhofer-Institut für Toxikologie und Experimentelle Medizin
+locations → [7] → city
+Hanover
+locations → [7] → zip
+30625
+locations → [7] → country
+Germany
+locations → [7] → geoPoint → lat
+52.37052
+locations → [7] → geoPoint → lon
+9.73322
+locations → [8] → facility
+Somni Bene GmbH
+locations → [8] → city
+Schwerin
+locations → [8] → zip
+19053
+locations → [8] → country
+Germany
+locations → [8] → geoPoint → lat
+53.62937
+locations → [8] → geoPoint → lon
+11.41316
+locations → [9] → facility
+Centre for Human Drug Research
+locations → [9] → city
+Leiden
+locations → [9] → zip
+2333 CL
+locations → [9] → country
+Netherlands
+locations → [9] → geoPoint → lat
+52.15833
+locations → [9] → geoPoint → lon
+4.49306
+locations → [10] → facility
+MAC Clinical Research
+locations → [10] → city
+Blackpool
+locations → [10] → zip
+FY2 0JH
+locations → [10] → country
+United Kingdom
+locations → [10] → geoPoint → lat
+53.81667
+locations → [10] → geoPoint → lon
+-3.05
+locations → [11] → facility
+MAC Clinical Research
+locations → [11] → city
+Liverpool
+locations → [11] → zip
+L34 1BH
+locations → [11] → country
+United Kingdom
+locations → [11] → geoPoint → lat
+53.41058
+locations → [11] → geoPoint → lon
+-2.97794
+locations → [12] → facility
+Hammersmith Medicines Research
+locations → [12] → city
+London
+locations → [12] → zip
+NW10 7EW
+locations → [12] → country
+United Kingdom
+locations → [12] → geoPoint → lat
+51.50853
+locations → [12] → geoPoint → lon
+-0.12574
+locations → [13] → facility
+MAC Clinical Research
+locations → [13] → city
+Manchester
+locations → [13] → zip
+M13 9NQ
+locations → [13] → country
+United Kingdom
+locations → [13] → geoPoint → lat
+53.48095
+locations → [13] → geoPoint → lon
+-2.23743
+
+references
+
+references → [0] → pmid
+39663378
+references → [0] → type
+DERIVED
+references → [0] → citation
+Mesens S, Kezic I, Van Der Ark P, Etropolski M, Pandina G, Benes H, Savitz A, Drevets WC.","The registration describes a study with three arm groups, including a placebo group and two groups receiving JNJ-42847922 at doses of 20mg and 40mg [PREREG_0004, PREREG_0005, PREREG_0006].",yes,"The paper mentions seltorexant as the drug being tested [PAPER_0005, PAPER_0006], while the registration mentions JNJ-42847922 [PREREG_0004, PREREG_0005, PREREG_0006], indicating a deviation between the two sources."
+Design: control/placebo information,"[PAPER_0007, relevance_score=0.056] Randomization occurred after the placebo lead-in period
+and was balanced using randomly permuted blocks stratiﬁed by lead-in
+placebo response status and presence of moderate-severe subjective
+insomnia symptom severity (deﬁned as ISI score >15) and subjective sleep
+disorder (as documented in the sleep diary by subjective Sleep Onset
+Latency (SOL) > 30 min and TST of <6 h at least 3 nights over 7 recorded
+days). Investigators and patients remained blind to the duration of the
+lead-in and withdrawal periods (combined 21 days) and to the lead-in
+placebo response criteria. Dosage and administration
+Visually identical capsules were self-administered (2 capsules orally, once
+daily) over 8 weeks, 15 min before bedtime, and consisted of 20 mg
+seltorexant (2 capsules of 10 mg), 40 mg seltorexant (2 capsules of 20 mg),
+or placebo (2 capsules). Fig. 1
+Study Design. This phase 1 study consisted of a screening phase (up to 3 weeks), a double-blind treatment phase (8 weeks), and a
+follow-up phase (1 week). The double-blind treatment phase consisted of 3 periods: a blinded placebo lead-in period, a treatment period
+(5 weeks), and a blinded placebo withdrawal period. The study duration for each patient was ~13 weeks.
+
+[PAPER_0010, relevance_score=0.069] Safety information was
+summarized using the full safety analysis set, deﬁned as participants who
+received ≥1 dose of study medication. Sample size determination
+An estimated 26 patients in each treatment group (78 total) were planned to
+complete the study in the enriched patient population after excluding
+placebo-responders in the placebo lead-in phase. The study sample size
+chosen (N = 78 non-placebo responders completing the study) was
+expected to allow investigation of the potential effect of seltorexant relative
+to placebo on symptoms of depression based upon power calculations that
+used data from a previous study conducted using the same compound in a
+similar patient population [15]. Assuming a standard deviation (SD) of 5.8 for
+the treatment difference in HDRS17 total score observed in this previous
+study [15], the calculated sample size allowed detection of a difference
+between any seltorexant group and placebo of 3.4 points and 4.2 points,
+respectively, at 20 and 10% one-sided signiﬁcance levels with 90% power. This translated to effect sizes of 0.59 and 0.72, respectively, which were
+comparable to the effect size previously observed [15]. To achieve this eITT sample size, 138 participants were planned to enter
+the lead-in period.
+
+[PAPER_0018, relevance_score=0.067] Changes in HDRS17
+sleep adjusted total score and HAM-D6 subscale score (analyzed
+with the same MMRM model used for HDRS17 total score) showed
+LS mean differences at week 5 between the seltorexant 20 mg and
+placebo arms that trended similarly (nominal p = 0.0289 and
+0.0853, respectively) as those obtained for the full HDRS17 scores
+(Fig. 2A). The LS mean differences at week 5 in the seltorexant
+20 mg arm was numerically larger than those in the 40 mg arm for
+both efﬁcacy variables (Fig. 2A). Changes in HDRS17 total score at treatment week 5 by subgroups
+with hyperarousal. In the subgroups of patients with subjective
+sleep disorder at screening (n = 50), ISI score > 15 at Lead-in
+Baseline (n = 59), or RRS score≥50 at treatment baseline (n = 50),
+larger LS Mean differences versus placebo were observed
+compared to the subgroups of patients from the eITT population
+who manifested, respectively, the absence of sleep disorder, ISI
+score ≤15, or RRS score < 50 (Fig. 2B).
+
+[PAPER_0025, relevance_score=0.049] For the sleep parameters TST, LPS, WASO, and
+SE, the mean changes from baseline and mean changes versus
+placebo were numerically larger in the seltorexant 40 mg group
+than in the seltorexant 20 mg group. Notably, patients treated with 40 mg seltorexant spent sig-
+niﬁcantly more time in stage N1 sleep post-treatment, suggesting
+an increase in time spent in this light sleep stage. In the eITT
+Analysis Set the mean (SD) change from baseline in time spent in
+Stage N1 at Treatment Week 3/4 was 0.98 (18.27) minutes for
+seltorexant 20 mg, 8.52 (19.14) minutes for seltorexant 40 mg, and
+−4.87 (26.56) minutes for placebo (Fig. 4). Also noteworthy, the time from sleep onset to REM onset (i.e.,
+REM latency) decreased signiﬁcantly in the 40 mg seltorexant
+group but did not change signiﬁcantly in the 20 mg or
+placebo groups.
+
+[PAPER_0027, relevance_score=0.071] 3
+Cortisol waking response and Nadir levels. A Mean Cortisol Waking Response (±SE); eITT Analysis Set. B Cortisol Waking Response
+(±SE); Least Squares Mean Changes (in nmol/L) and Comparison Versus Placebo; eITT Analysis Set. C Mean Cortisol Nadir Levels (±SE) Over
+Time (nmol/L); eITT Analysis Set. D Cortisol Nadir Levels: Mean Changes (in nmol/L) From Time-Matched Lead-In Baseline and Comparison
+Versus Placebo at Week 3–4; eITT Analysis Set. S. Mesens et al. Molecular Psychiatry (2025) 30:2427 – 2435
+Safety
+Adverse events. The incidence of ≥1 treatment-emergent adverse
+events (TEAE) in the full safety analysis set was 45.2% (19/42) for
+20 mg, 61.0% (25/41) for 40 mg, and 47.7% (21/44) for placebo
+(Table 2).
+
+[PAPER_0037, relevance_score=0.067] Notably, this strong treatment effect was observed despite the
+design limitation that the 1:1:1 randomization schedule limited the
+placebo expectancy to only 0.33, a design element which generally
+is associated with a larger placebo effect in studies of MDD [25, 26]. Limitations
+The study focuses on results in the placebo non-responder
+population, and although the full ITT (fITT) sample (placebo responder
+and non-responder population) showed similar trends, the magnitude
+of the treatment effects was lower in the fITT sample than in the eITT
+sample. The double-blind placebo lead-in period was used to
+proactively exclude early placebo responders from the primary
+efﬁcacy analysis, and to reduce potential effects of expectation and
+incentive biases from the study [27]. This approach is hypothesized to
+enhance the likelihood of obtaining a reliable estimate of treatment
+effect in the enriched population (i.e., based on showing a minimal
+response to placebo in the blinded lead in phase). However, disadvantages to this study design include the
+requirements for a longer study duration and larger sample size
+compared to a simple parallel design of same statistical character-
+istics. The longer duration prolongs the time during which
+depressed patients do not receive active antidepressant treatment
+while participating in the clinical trial.","The paper describes a double-blind treatment phase with a placebo lead-in period, a treatment period, and a placebo withdrawal period, using visually identical capsules for seltorexant and placebo [PAPER_0007, PAPER_0010]. The study aimed to investigate the effect of seltorexant relative to placebo on symptoms of depression.","[PREREG_0002, relevance_score=0.060] conditions
+
+conditions → [0]
+Depressive Disorder, Major
+
+design
+
+studyType
+INTERVENTIONAL
+phases → [0]
+PHASE1
+designInfo → allocation
+RANDOMIZED
+designInfo → interventionModel
+PARALLEL
+designInfo → primaryPurpose
+TREATMENT
+designInfo → maskingInfo → masking
+DOUBLE
+designInfo → maskingInfo → whoMasked → [0]
+PARTICIPANT
+designInfo → maskingInfo → whoMasked → [1]
+INVESTIGATOR
+enrollmentInfo → count
+140
+enrollmentInfo → type
+ACTUAL
+
+armsInterventions
+
+armGroups → [0] → label
+Lead-in period: Placebo
+armGroups → [0] → type
+PLACEBO_COMPARATOR
+armGroups → [0] → description
+Participants who successfully complete the baseline examination visit at the clinical site/unit, will be treated with placebo (2 capsules taken orally) for the duration of the lead-in period which will last up to 3 weeks. Investigators and participants will be blinded to exact duration of each participant-specific lead-in period throughout the study.
+
+[PREREG_0003, relevance_score=0.092] armGroups → [0] → interventionNames → [0]
+Drug: Placebo
+armGroups → [1] → label
+Treatment period: JNJ-42847922 or Placebo
+armGroups → [1] → type
+EXPERIMENTAL
+armGroups → [1] → description
+Placebo lead-in period responders and non-responders will be randomized to receive either placebo or 20 milligram (mg) JNJ-42847922 or 40 mg JNJ-42847922 for 5 Weeks. Participants will swallow JNJ-42847922 20 mg (2\*10-mg capsules) or JNJ-42847922 40 mg (2\*20-mg capsules) or 2 matching placebo capsules once daily for 5 Weeks.
+
+[PREREG_0004, relevance_score=0.050] armGroups → [1] → interventionNames → [0]
+Drug: JNJ-42847922 20mg
+armGroups → [1] → interventionNames → [1]
+Drug: JNJ-42847922 40mg
+armGroups → [1] → interventionNames → [2]
+Drug: Placebo
+armGroups → [2] → label
+Withdrawal period: Placebo
+armGroups → [2] → type
+PLACEBO_COMPARATOR
+armGroups → [2] → description
+Participants who will complete the treatment period prior to the end of Week 8 will enter the withdrawal period where they will be treated with placebo (2 capsules taken orally) for the remaining time of the double-blind phase of the study. Investigators and participants will be blinded to exact duration of each participant-specific withdrawal period. armGroups → [2] → interventionNames → [0]
+Drug: Placebo
+interventions → [0] → type
+DRUG
+interventions → [0] → name
+JNJ-42847922 20mg
+interventions → [0] → description
+Participants will swallow 20 mg (2\*10 mg) JNJ-42847922 capsule orally for 5 weeks during treatment period.
+
+[PREREG_0005, relevance_score=0.095] interventions → [0] → armGroupLabels → [0]
+Treatment period: JNJ-42847922 or Placebo
+interventions → [1] → type
+DRUG
+interventions → [1] → name
+JNJ-42847922 40mg
+interventions → [1] → description
+Participants will swallow 40 mg (2\*20 mg) JNJ-42847922 capsule orally for 5 weeks during treatment period. interventions → [1] → armGroupLabels → [0]
+Treatment period: JNJ-42847922 or Placebo
+interventions → [2] → type
+DRUG
+interventions → [2] → name
+Placebo
+interventions → [2] → description
+All participants will receive matching placebo capsule during lead in period, treatment period and withdrawal period.
+
+[PREREG_0006, relevance_score=0.086] interventions → [2] → armGroupLabels → [0]
+Lead-in period: Placebo
+interventions → [2] → armGroupLabels → [1]
+Treatment period: JNJ-42847922 or Placebo
+interventions → [2] → armGroupLabels → [2]
+Withdrawal period: Placebo
+
+outcomes
+
+primaryOutcomes → [0] → measure
+Change From Baseline in Hamilton Rating Scale for Depression-17 (HDRS17) Total Score
+primaryOutcomes → [0] → description
+The HDRS17 is a Clinician-Administered rating scale designed to assess the severity of symptoms in participants diagnosed with depression with a total score range of 0 to 52. It is the most widely used symptom severity measure for depression. Each of the 17 items is rated by the clinician on either a 3- point (0 to 2) or a 5-point scale (0 to 4). The point scale uses a rating of 0 (absent), 1 (doubtful to mild), 2 (mild to moderate), 3 (moderate to severe), and 4 (very severe). Total score will be calculated by summing up the individual item score. The higher the score, the more severe the depression.
+
+[PREREG_0011, relevance_score=0.071] Following the key, the participant is presented with randomly ordered symbols and is required to respond orally by naming the number or enter the number corresponding to each symbol as fast as possible using a keypad. The number of correct substitutions within 90 seconds is recorded by computerized cognitive test battery. secondaryOutcomes → [2] → timeFrame
+Baseline
+secondaryOutcomes → [3] → measure
+Performance Score on a Cognitive Test Battery Evaluated by Word List Recall Test (WLRT)
+secondaryOutcomes → [3] → description
+The WLRT used for the computerized test battery that measures person's ability to encode, consolidate, store, and retrieve verbal information and is a sensitive test of verbal learning and memory in a variety of disease states, including MDD. The memory test will include a list of 15 words presented aloud, one at a time, through the iPad. After the 15-word list is presented, the participant will be asked to verbally recall as many of the words as possible. The 15 word list and participant recall will be conducted 4 more times (total 5 times). After the 5th learning trial and recall, performance on the learning trials of the original word list and on the delayed recall will be considered as the primary scores. The computer tablet will record and score the participant's responses to the evaluation.","The registration describes a study with a lead-in period where participants receive placebo, followed by a treatment period where participants may receive either JNJ-42847922 or placebo, and a withdrawal period where participants receive placebo again [PREREG_0002, PREREG_0003, PREREG_0005, PREREG_0006].",no,"The paper and registration excerpts describe similar control/placebo information, including a double-blind placebo lead-in period, a treatment period with placebo as a comparator, and a blinded placebo withdrawal period [PAPER_0007, PREREG_0002, PREREG_0003]. The use of visually identical capsules for seltorexant and placebo in the paper is consistent with the registration's description of matching placebo capsules [PAPER_0007, PREREG_0006]."
+Design: Planned sample size,"[PAPER_0009, relevance_score=0.061] Treatment with sedative hypnotics of the
+benzodiazepine or GABAA receptor agonist classes, opioid analgesics or
+antipsychotic agents was not allowed from screening throughout the
+study. Ongoing psychotherapy (if initiated more than 2 months prior to
+randomization) was allowed. The study protocols were reviewed by an
+independent ethics committee or institutional review board at each site
+(e.g., EC UZA [reference number: 17/43/491]; CCMO NL [reference number:
+NL63487.056.17]) and conducted following the principles of Good Clinical
+Practice derived from the Declaration of Helsinki, and in accordance with
+local regulations and International Council of Harmonization guidelines. Patients or their legal representatives provided their written informed
+consent to participate in the study. Analysis sets
+The “enriched” intent-to-treat analysis set (eITT) evaluated for efﬁcacy was
+deﬁned as all enrolled lead-in placebo non-responders (placebo response
+was deﬁned by ≥30% reduction from baseline in HDRS17 total score at the
+end of the placebo lead-in period) randomized into the treatment period
+who received ≥1 dose of study medication and had ≥1 post-baseline
+HDRS17 assessment during the treatment period.
+
+[PAPER_0010, relevance_score=0.209] Safety information was
+summarized using the full safety analysis set, deﬁned as participants who
+received ≥1 dose of study medication. Sample size determination
+An estimated 26 patients in each treatment group (78 total) were planned to
+complete the study in the enriched patient population after excluding
+placebo-responders in the placebo lead-in phase. The study sample size
+chosen (N = 78 non-placebo responders completing the study) was
+expected to allow investigation of the potential effect of seltorexant relative
+to placebo on symptoms of depression based upon power calculations that
+used data from a previous study conducted using the same compound in a
+similar patient population [15]. Assuming a standard deviation (SD) of 5.8 for
+the treatment difference in HDRS17 total score observed in this previous
+study [15], the calculated sample size allowed detection of a difference
+between any seltorexant group and placebo of 3.4 points and 4.2 points,
+respectively, at 20 and 10% one-sided signiﬁcance levels with 90% power. This translated to effect sizes of 0.59 and 0.72, respectively, which were
+comparable to the effect size previously observed [15]. To achieve this eITT sample size, 138 participants were planned to enter
+the lead-in period.
+
+[PAPER_0031, relevance_score=0.092] Placebo (N = 44)
+Seltorexant (20 mg) (N = 42)
+Seltorexant (40 mg) (N = 41)
+Total patients with adverse events (%)
+21 (47.7)
+19 (45.2)
+25 (61.0)
+Headache (%)
+10 (22.7)
+3 (7.1)
+6 (14.6)
+Nasopharyngitis (%)
+3 (6.8)
+4 (9.5)
+5 (12.2)
+Abnormal dreams (%)
+2 (4.5)
+2 (4.8)
+4 (9.8)
+Sleep paralysis (%)a
+
+3 (7.1)
+3 (7.3)
+Fatigue (%)
+2 (4.5)
+1 (2.4)
+4 (9.8)
+Nightmare (%)a
+
+4 (9.8)
+Inﬂuenza-like illness (%)
+3 (6.8)
+
+1 (2.4)
+Summary of treatment-emergent adverse events in ≥5% of patients during the treatment period; full safety analysis set. Percentages calculated with the
+number of patients in each group as denominator. Reported dictionary version: MedDRA 21.1.
+aAdverse events of special interest. S. Mesens et al.
+
+[PAPER_0036, relevance_score=0.065] The incidence of TEAEs in the
+20 mg seltorexant treatment arm (45.2%) was comparable to that
+observed in the placebo arm (47.7%); TEAEs appeared more
+prevalent in the 40 mg group (61.0%). The most common TEAEs in
+the seltorexant combined group during the treatment phase were
+headache (although the incidence of headache was greater in the
+placebo group) and nasopharyngitis. Sleep paralysis, nightmares,
+and abnormal dreams were reported as AESIs, and generally were
+more common in the 40 mg group than the 20 mg group,
+although these AESIs did not lead to discontinuation of study
+drug. No death or suicidal behavior was reported in the study. A meta-analysis of randomized controlled trials involving FDA-
+approved antidepressant agents [24] reported that compared to
+placebo, the mean weighted effect-size for these agents was 0.37
+(95% CI, 0.33–0.41) in published studies and 0.15 (95% CI, 0.08–0.22)
+in unpublished studies. In contrast, in the current study, which
+involved an MDD sample enriched by removing early placebo
+responders, the effect size for the 20 mg seltorexant dose group was
+0.58.
+
+[PAPER_0037, relevance_score=0.110] Notably, this strong treatment effect was observed despite the
+design limitation that the 1:1:1 randomization schedule limited the
+placebo expectancy to only 0.33, a design element which generally
+is associated with a larger placebo effect in studies of MDD [25, 26]. Limitations
+The study focuses on results in the placebo non-responder
+population, and although the full ITT (fITT) sample (placebo responder
+and non-responder population) showed similar trends, the magnitude
+of the treatment effects was lower in the fITT sample than in the eITT
+sample. The double-blind placebo lead-in period was used to
+proactively exclude early placebo responders from the primary
+efﬁcacy analysis, and to reduce potential effects of expectation and
+incentive biases from the study [27]. This approach is hypothesized to
+enhance the likelihood of obtaining a reliable estimate of treatment
+effect in the enriched population (i.e., based on showing a minimal
+response to placebo in the blinded lead in phase). However, disadvantages to this study design include the
+requirements for a longer study duration and larger sample size
+compared to a simple parallel design of same statistical character-
+istics. The longer duration prolongs the time during which
+depressed patients do not receive active antidepressant treatment
+while participating in the clinical trial.
+
+[PAPER_0038, relevance_score=0.062] The requirement for a larger
+sample size was partly offset by using one-sided statistical tests to
+improve power by focusing on one tail of the distribution (i.e., in
+Phase 1b or 2a trials, only improvement relative to placebo is of
+interest for progressing compounds further in clinical development). The generalizability of the results was limited by the inclusion of a
+largely Caucasian participant sample and the initial exclusion of
+WOCBP, which led to a higher proportion of men than is
+representative of the general MDD population. An initial preclinical
+reproductive toxicology study in rats indicated that treatment with
+seltorexant (25, 150, and 400 mg/kg) was associated with abnormal
+estrus cycles in individual females and non-dose responsive
+changes in reproductive performance (lower fertility and lower
+conception indices). Once these data became available, a safety
+measure was implemented to preclude enrollment of WOCBP in
+ongoing seltorexant studies until the results of a second preclinical
+reproductive toxicology study were obtained to establish the safety
+margin and characterize the reversibility of the effects observed on
+fertility and conception indices.","The planned sample size for the study was 78 non-placebo responders completing the study, with 138 participants planned to enter the lead-in period, as stated in [PAPER_0010].","[PREREG_0002, relevance_score=0.115] conditions
+
+conditions → [0]
+Depressive Disorder, Major
+
+design
+
+studyType
+INTERVENTIONAL
+phases → [0]
+PHASE1
+designInfo → allocation
+RANDOMIZED
+designInfo → interventionModel
+PARALLEL
+designInfo → primaryPurpose
+TREATMENT
+designInfo → maskingInfo → masking
+DOUBLE
+designInfo → maskingInfo → whoMasked → [0]
+PARTICIPANT
+designInfo → maskingInfo → whoMasked → [1]
+INVESTIGATOR
+enrollmentInfo → count
+140
+enrollmentInfo → type
+ACTUAL
+
+armsInterventions
+
+armGroups → [0] → label
+Lead-in period: Placebo
+armGroups → [0] → type
+PLACEBO_COMPARATOR
+armGroups → [0] → description
+Participants who successfully complete the baseline examination visit at the clinical site/unit, will be treated with placebo (2 capsules taken orally) for the duration of the lead-in period which will last up to 3 weeks. Investigators and participants will be blinded to exact duration of each participant-specific lead-in period throughout the study.
+
+[PREREG_0004, relevance_score=0.101] armGroups → [1] → interventionNames → [0]
+Drug: JNJ-42847922 20mg
+armGroups → [1] → interventionNames → [1]
+Drug: JNJ-42847922 40mg
+armGroups → [1] → interventionNames → [2]
+Drug: Placebo
+armGroups → [2] → label
+Withdrawal period: Placebo
+armGroups → [2] → type
+PLACEBO_COMPARATOR
+armGroups → [2] → description
+Participants who will complete the treatment period prior to the end of Week 8 will enter the withdrawal period where they will be treated with placebo (2 capsules taken orally) for the remaining time of the double-blind phase of the study. Investigators and participants will be blinded to exact duration of each participant-specific withdrawal period. armGroups → [2] → interventionNames → [0]
+Drug: Placebo
+interventions → [0] → type
+DRUG
+interventions → [0] → name
+JNJ-42847922 20mg
+interventions → [0] → description
+Participants will swallow 20 mg (2\*10 mg) JNJ-42847922 capsule orally for 5 weeks during treatment period.
+
+[PREREG_0006, relevance_score=0.056] interventions → [2] → armGroupLabels → [0]
+Lead-in period: Placebo
+interventions → [2] → armGroupLabels → [1]
+Treatment period: JNJ-42847922 or Placebo
+interventions → [2] → armGroupLabels → [2]
+Withdrawal period: Placebo
+
+outcomes
+
+primaryOutcomes → [0] → measure
+Change From Baseline in Hamilton Rating Scale for Depression-17 (HDRS17) Total Score
+primaryOutcomes → [0] → description
+The HDRS17 is a Clinician-Administered rating scale designed to assess the severity of symptoms in participants diagnosed with depression with a total score range of 0 to 52. It is the most widely used symptom severity measure for depression. Each of the 17 items is rated by the clinician on either a 3- point (0 to 2) or a 5-point scale (0 to 4). The point scale uses a rating of 0 (absent), 1 (doubtful to mild), 2 (mild to moderate), 3 (moderate to severe), and 4 (very severe). Total score will be calculated by summing up the individual item score. The higher the score, the more severe the depression.
+
+[PREREG_0011, relevance_score=0.120] Following the key, the participant is presented with randomly ordered symbols and is required to respond orally by naming the number or enter the number corresponding to each symbol as fast as possible using a keypad. The number of correct substitutions within 90 seconds is recorded by computerized cognitive test battery. secondaryOutcomes → [2] → timeFrame
+Baseline
+secondaryOutcomes → [3] → measure
+Performance Score on a Cognitive Test Battery Evaluated by Word List Recall Test (WLRT)
+secondaryOutcomes → [3] → description
+The WLRT used for the computerized test battery that measures person's ability to encode, consolidate, store, and retrieve verbal information and is a sensitive test of verbal learning and memory in a variety of disease states, including MDD. The memory test will include a list of 15 words presented aloud, one at a time, through the iPad. After the 15-word list is presented, the participant will be asked to verbally recall as many of the words as possible. The 15 word list and participant recall will be conducted 4 more times (total 5 times). After the 5th learning trial and recall, performance on the learning trials of the original word list and on the delayed recall will be considered as the primary scores. The computer tablet will record and score the participant's responses to the evaluation.
+
+[PREREG_0015, relevance_score=0.101] secondaryOutcomes → [8] → timeFrame
+Day 36 to 40 (over 48 hours during Visit 6)
+secondaryOutcomes → [9] → measure
+Number of Participants With Adverse Events as a Measure of Safety and Tolerability
+secondaryOutcomes → [9] → description
+An adverse event is any untoward medical event that occurs in a participant administered an investigational product, and it does not necessarily indicate only events with clear causal relationship with the relevant investigational product.
+
+[PREREG_0016, relevance_score=0.058] secondaryOutcomes → [9] → timeFrame
+Up to end of the study (Day 67)
+
+eligibility
+
+eligibilityCriteria
+Inclusion Criteria:
+
+* Have a body mass index (BMI) between 18 and 35 kilogram per meter square (kg/m\^2) inclusive (BMI = weight/height\^2)
+* Participants must be medically stable based on clinical laboratory tests, medical history, vital signs, and 12-lead electrocardiogram (ECG) performed at screening and baseline
+* Population specific: Participant must meet Diagnostic and Statistical Manual of Mental Disorders - fifth edition (DSM-5) diagnostic criteria for MDD (international classification of diseases \[ICD\]-code F32.x and F33.x), without psychotic features, and confirmed by the Mini International Neuropsychiatric Interview (MINI) 7.0; have a Montgomery Asberg Depression Rating Scale (MADRS) total score greater than or equal to (\>=) 25 at screening and must not demonstrate a clinically significant change (that is, an improvement of greater than (\>) 20 percent (%) on their MADRS total score) from the screening to the second completion of MADRS by telephone at most 4 days before the baseline visit; Not currently receiving antidepressant drug therapy for \>= 2 weeks before screening
+* Men who are sexually active with a women of childbearing potential (WOCBP) and have not had a vasectomy must agree to use a barrier method of birth control
+* A woman of childbearing potential must have a negative serum pregnancy test at screening and a negative urine pregnancy test before the first dose
+* A woman must agree not to donate eggs (ova, oocytes) for the purposes of assisted reproduction during the study and for at least 3 months after receiving the last dose of study drug
+
+Exclusion Criteria:
+
+* Has failed more than 2 treatments (no more than 20 percent (%) response) with a differing pharmacological mode of action despite an adequate dose and duration during a previous, or the current depressive episode
+* Has a diagnosis of Cushing's Disease, Addison's Disease, primary amenorrhea, or other evidence of significant medical disorders of the Hypothalamus pituitary adrenal (HPA) axis
+* Is pregnant or breast feeding
+* Participant has received an investigational drug (including investigational vaccines) or used an invasive investigational medical device within 60 days before the planned first dose of study drug, or has participated in 2 or more interventional clinical studies in the previous 1 year, or is currently enrolled in an interventional study
+* Participant is a man who plans to father a child while enrolled in this study or within 3 months after the last dose of study drug
+* Participant has a history of hepatitis B surface antigen (HBsAg) or hepatitis C antibody (anti-HCV) positive, or other clinically active liver disease, or tests positive for HBsAg or anti-HCV at screening
+healthyVolunteers
+False
+sex
+ALL
+minimumAge
+18 Years
+maximumAge
+55 Years
+stdAges → [0]
+ADULT
+
+contactsLocations
+
+overallOfficials → [0] → name
+Janssen Research & Development, LLC Clinical Trial
+overallOfficials → [0] → affiliation
+Janssen Research & Development, LLC
+overallOfficials → [0] → role
+STUDY_DIRECTOR
+locations → [0] → facility
+Artemis Institute for Clinical Research
+locations → [0] → city
+San Diego
+locations → [0] → state
+California
+locations → [0] → zip
+92103
+locations → [0] → country
+United States
+locations → [0] → geoPoint → lat
+32.71571
+locations → [0] → geoPoint → lon
+-117.16472
+locations → [1] → facility
+Artemis Institute for Clinical Research
+locations → [1] → city
+San Marcos
+locations → [1] → state
+California
+locations → [1] → zip
+92078
+locations → [1] → country
+United States
+locations → [1] → geoPoint → lat
+33.14337
+locations → [1] → geoPoint → lon
+-117.16614
+locations → [2] → facility
+Qps-Mra, Llc
+locations → [2] → city
+Miami
+locations → [2] → state
+Florida
+locations → [2] → zip
+33143
+locations → [2] → country
+United States
+locations → [2] → geoPoint → lat
+25.77427
+locations → [2] → geoPoint → lon
+-80.19366
+locations → [3] → facility
+SGS Phase 1 Unit AZ St-Maarten
+locations → [3] → city
+Mechelen
+locations → [3] → zip
+2800
+locations → [3] → country
+Belgium
+locations → [3] → geoPoint → lat
+51.02574
+locations → [3] → geoPoint → lon
+4.47762
+locations → [4] → facility
+Clinical Pharmacology Unit
+locations → [4] → city
+Merksem
+locations → [4] → zip
+2170
+locations → [4] → country
+Belgium
+locations → [4] → geoPoint → lat
+51.24623
+locations → [4] → geoPoint → lon
+4.44903
+locations → [5] → facility
+Charite Research Organisation GmbH
+locations → [5] → city
+Berlin
+locations → [5] → zip
+10117
+locations → [5] → country
+Germany
+locations → [5] → geoPoint → lat
+52.52437
+locations → [5] → geoPoint → lon
+13.41053
+locations → [6] → facility
+Emovis GmbH
+locations → [6] → city
+Berlin
+locations → [6] → zip
+10629
+locations → [6] → country
+Germany
+locations → [6] → geoPoint → lat
+52.52437
+locations → [6] → geoPoint → lon
+13.41053
+locations → [7] → facility
+Fraunhofer-Institut für Toxikologie und Experimentelle Medizin
+locations → [7] → city
+Hanover
+locations → [7] → zip
+30625
+locations → [7] → country
+Germany
+locations → [7] → geoPoint → lat
+52.37052
+locations → [7] → geoPoint → lon
+9.73322
+locations → [8] → facility
+Somni Bene GmbH
+locations → [8] → city
+Schwerin
+locations → [8] → zip
+19053
+locations → [8] → country
+Germany
+locations → [8] → geoPoint → lat
+53.62937
+locations → [8] → geoPoint → lon
+11.41316
+locations → [9] → facility
+Centre for Human Drug Research
+locations → [9] → city
+Leiden
+locations → [9] → zip
+2333 CL
+locations → [9] → country
+Netherlands
+locations → [9] → geoPoint → lat
+52.15833
+locations → [9] → geoPoint → lon
+4.49306
+locations → [10] → facility
+MAC Clinical Research
+locations → [10] → city
+Blackpool
+locations → [10] → zip
+FY2 0JH
+locations → [10] → country
+United Kingdom
+locations → [10] → geoPoint → lat
+53.81667
+locations → [10] → geoPoint → lon
+-3.05
+locations → [11] → facility
+MAC Clinical Research
+locations → [11] → city
+Liverpool
+locations → [11] → zip
+L34 1BH
+locations → [11] → country
+United Kingdom
+locations → [11] → geoPoint → lat
+53.41058
+locations → [11] → geoPoint → lon
+-2.97794
+locations → [12] → facility
+Hammersmith Medicines Research
+locations → [12] → city
+London
+locations → [12] → zip
+NW10 7EW
+locations → [12] → country
+United Kingdom
+locations → [12] → geoPoint → lat
+51.50853
+locations → [12] → geoPoint → lon
+-0.12574
+locations → [13] → facility
+MAC Clinical Research
+locations → [13] → city
+Manchester
+locations → [13] → zip
+M13 9NQ
+locations → [13] → country
+United Kingdom
+locations → [13] → geoPoint → lat
+53.48095
+locations → [13] → geoPoint → lon
+-2.23743
+
+references
+
+references → [0] → pmid
+39663378
+references → [0] → type
+DERIVED
+references → [0] → citation
+Mesens S, Kezic I, Van Der Ark P, Etropolski M, Pandina G, Benes H, Savitz A, Drevets WC.","The registration indicates a planned sample size of 140 participants, as mentioned in [PREREG_0002].",yes,"The planned sample size differs between the registration (140 participants, [PREREG_0002]) and the paper (138 participants planned to enter the lead-in period, with 78 non-placebo responders completing the study, [PAPER_0010])."
+Ethics approval: number,"[PAPER_0009, relevance_score=0.148] Treatment with sedative hypnotics of the
+benzodiazepine or GABAA receptor agonist classes, opioid analgesics or
+antipsychotic agents was not allowed from screening throughout the
+study. Ongoing psychotherapy (if initiated more than 2 months prior to
+randomization) was allowed. The study protocols were reviewed by an
+independent ethics committee or institutional review board at each site
+(e.g., EC UZA [reference number: 17/43/491]; CCMO NL [reference number:
+NL63487.056.17]) and conducted following the principles of Good Clinical
+Practice derived from the Declaration of Helsinki, and in accordance with
+local regulations and International Council of Harmonization guidelines. Patients or their legal representatives provided their written informed
+consent to participate in the study. Analysis sets
+The “enriched” intent-to-treat analysis set (eITT) evaluated for efﬁcacy was
+deﬁned as all enrolled lead-in placebo non-responders (placebo response
+was deﬁned by ≥30% reduction from baseline in HDRS17 total score at the
+end of the placebo lead-in period) randomized into the treatment period
+who received ≥1 dose of study medication and had ≥1 post-baseline
+HDRS17 assessment during the treatment period.
+
+[PAPER_0011, relevance_score=0.035] After adjusting for an estimated placebo response rate
+of 25%, drop-out rate during the lead-in period of 10%, and drop-out rate
+during the treatment period of 15%, a total of 93 placebo non-responders
+were planned for randomization to receive either placebo, 20 mg or 40 mg
+seltorexant in 1:1:1 ratio. Efﬁcacy variables
+The key efﬁcacy variable for the primary analysis was the mean change in
+HDRS17 total score from treatment baseline through treatment Week 5. The efﬁcacy variables for the key secondary analyses were the change in
+HDRS17 score from treatment baseline through treatment Week 5 by
+baseline ISI score (>15 deﬁning moderate to severe insomnia symptoms)
+and presence of subjective sleep disorder (presence, absence) deﬁned as
+ISI score >15 plus sleep diary documentation of subjective SOL > 30 min
+and TST < 6 h (during at least 3 nights over 7 recorded days).
+
+[PAPER_0019, relevance_score=0.045] In each of the subgroups
+manifesting hyperarousal, the LSMean difference relative to
+placebo appeared numerically larger for the seltorexant 20 mg
+arm than for the 40 mg arm (Fig. 2B). Notably, the largest LSMean
+difference versus placebo was observed in patients with RRS ≥50
+treated with 20 mg: −5.06 with 80%CI [−7.04, −3.07]. Clinical
+response
+deﬁned
+by
+50%
+improvement
+in
+HDRS17
+total score. The percentages of patients in the eITT population
+who manifested an antidepressant response, deﬁned convention-
+ally by ≥50% improvement in the HDRS17 total score at Treatment
+Week 5, were 30.8% for the 20 mg, 29.2% for the 40 mg, and
+10.3% for the placebo groups (Supplemental Fig. 1). Remission rates deﬁned by achieving HDRS17 total score ≤7.
+
+[PAPER_0020, relevance_score=0.050] At
+Treatment Week 5 the percentages of patients in the eITT
+population who achieved remission, deﬁned conventionally by
+HDRS17 total score ≤7, were 26.9% for the 20 mg, 29.2% for the
+40 mg, and 13.8% for the placebo groups (Supplemental Table 1). Changes in self-rated QIDS-SR16 over treatment period. In the eITT
+population, the mean (SD) change in QIDS-SR16 total score from
+baseline to Treatment Week 5 was −3.7 (4.84) for the 20 mg group,
+−3.0 (4.77) for the 40 mg group, and −1.7 (4.44) for the placebo group. Changes in RRS over treatment period. The mean (SD) RRS total
+score at treatment baseline was 52.5 (12.05) for placebo group, 54.7
+(14.51) for seltorexant 20 mg group, and 53.9 (11.37) for seltorexant
+40 mg group (Supplemental Table 2).
+
+[PAPER_0031, relevance_score=0.039] Placebo (N = 44)
+Seltorexant (20 mg) (N = 42)
+Seltorexant (40 mg) (N = 41)
+Total patients with adverse events (%)
+21 (47.7)
+19 (45.2)
+25 (61.0)
+Headache (%)
+10 (22.7)
+3 (7.1)
+6 (14.6)
+Nasopharyngitis (%)
+3 (6.8)
+4 (9.5)
+5 (12.2)
+Abnormal dreams (%)
+2 (4.5)
+2 (4.8)
+4 (9.8)
+Sleep paralysis (%)a
+
+3 (7.1)
+3 (7.3)
+Fatigue (%)
+2 (4.5)
+1 (2.4)
+4 (9.8)
+Nightmare (%)a
+
+4 (9.8)
+Inﬂuenza-like illness (%)
+3 (6.8)
+
+1 (2.4)
+Summary of treatment-emergent adverse events in ≥5% of patients during the treatment period; full safety analysis set. Percentages calculated with the
+number of patients in each group as denominator. Reported dictionary version: MedDRA 21.1.
+aAdverse events of special interest. S. Mesens et al.
+
+[PAPER_0035, relevance_score=0.035] described
+an essential role for the orexin-sublaterodorsal tegmental nucleus
+neural pathway in relieving REM sleep pressure and presented
+evidence that disruption of this pathway accounts for the
+disturbance in sleep-onset REM sleep associated with the orexin
+deﬁciency state of narcolepsy [23]. These data considered
+together with the dose-response relationship we identiﬁed for
+the occurrence of reduced SOL suggest the hypothesis that the
+40 mg dose may provide excessive OX2R antagonism in some
+patients, interfering with this pathway’s function in stabilizing REM
+sleep, while the 20 mg dose appears sufﬁcient to produce
+antidepressant effects without interfering with the orexinergic
+role of stabilizing REM sleep. If so, then the larger antidepressant
+effect at 20 mg qhs conceivably may partly depend on a more
+optimal restoration and/or maintenance of physiological sleep
+compared to either 40 mg or 10 mg qhs (the effects of 10 mg qhs
+in MDD are reported elsewhere [6, 13]). Seltorexant was well tolerated and showed a good safety and
+tolerability proﬁle in MDD patients.","The study protocols were reviewed by an independent ethics committee or institutional review board at each site, as noted in [PAPER_0009]. The specific reference numbers for the ethics approvals are provided, including EC UZA [reference number: 17/43/491] and CCMO NL [reference number: NL63487.056.17].","[PREREG_0002, relevance_score=0.073] conditions
+
+conditions → [0]
+Depressive Disorder, Major
+
+design
+
+studyType
+INTERVENTIONAL
+phases → [0]
+PHASE1
+designInfo → allocation
+RANDOMIZED
+designInfo → interventionModel
+PARALLEL
+designInfo → primaryPurpose
+TREATMENT
+designInfo → maskingInfo → masking
+DOUBLE
+designInfo → maskingInfo → whoMasked → [0]
+PARTICIPANT
+designInfo → maskingInfo → whoMasked → [1]
+INVESTIGATOR
+enrollmentInfo → count
+140
+enrollmentInfo → type
+ACTUAL
+
+armsInterventions
+
+armGroups → [0] → label
+Lead-in period: Placebo
+armGroups → [0] → type
+PLACEBO_COMPARATOR
+armGroups → [0] → description
+Participants who successfully complete the baseline examination visit at the clinical site/unit, will be treated with placebo (2 capsules taken orally) for the duration of the lead-in period which will last up to 3 weeks. Investigators and participants will be blinded to exact duration of each participant-specific lead-in period throughout the study.
+
+[PREREG_0004, relevance_score=0.085] armGroups → [1] → interventionNames → [0]
+Drug: JNJ-42847922 20mg
+armGroups → [1] → interventionNames → [1]
+Drug: JNJ-42847922 40mg
+armGroups → [1] → interventionNames → [2]
+Drug: Placebo
+armGroups → [2] → label
+Withdrawal period: Placebo
+armGroups → [2] → type
+PLACEBO_COMPARATOR
+armGroups → [2] → description
+Participants who will complete the treatment period prior to the end of Week 8 will enter the withdrawal period where they will be treated with placebo (2 capsules taken orally) for the remaining time of the double-blind phase of the study. Investigators and participants will be blinded to exact duration of each participant-specific withdrawal period. armGroups → [2] → interventionNames → [0]
+Drug: Placebo
+interventions → [0] → type
+DRUG
+interventions → [0] → name
+JNJ-42847922 20mg
+interventions → [0] → description
+Participants will swallow 20 mg (2\*10 mg) JNJ-42847922 capsule orally for 5 weeks during treatment period.
+
+[PREREG_0006, relevance_score=0.087] interventions → [2] → armGroupLabels → [0]
+Lead-in period: Placebo
+interventions → [2] → armGroupLabels → [1]
+Treatment period: JNJ-42847922 or Placebo
+interventions → [2] → armGroupLabels → [2]
+Withdrawal period: Placebo
+
+outcomes
+
+primaryOutcomes → [0] → measure
+Change From Baseline in Hamilton Rating Scale for Depression-17 (HDRS17) Total Score
+primaryOutcomes → [0] → description
+The HDRS17 is a Clinician-Administered rating scale designed to assess the severity of symptoms in participants diagnosed with depression with a total score range of 0 to 52. It is the most widely used symptom severity measure for depression. Each of the 17 items is rated by the clinician on either a 3- point (0 to 2) or a 5-point scale (0 to 4). The point scale uses a rating of 0 (absent), 1 (doubtful to mild), 2 (mild to moderate), 3 (moderate to severe), and 4 (very severe). Total score will be calculated by summing up the individual item score. The higher the score, the more severe the depression.
+
+[PREREG_0007, relevance_score=0.078] primaryOutcomes → [0] → timeFrame
+Baseline up to Day 57
+primaryOutcomes → [1] → measure
+Change From Baseline in Hamilton Rating Scale for Depression-17 (HDRS17) Sleep Item-Adjusted Total Score
+primaryOutcomes → [1] → description
+The HDRS17 is a Clinician-Administered rating scale designed to assess the severity of symptoms in participants diagnosed with depression with a score range of 0 to 52. It is the most widely used symptom severity measure for depression. Each of the 17 items is rated by the clinician on either a 3- point (0 to 2) or a 5-point scale (0 to 4). The point scale uses a rating of 0 (absent), 1 (doubtful to mild), 2 (mild to moderate), 3 (moderate to severe), and 4 (very severe). Higher scores indicate worsening. HDRS17 Sleep Item-Adjusted is derived from the HDRS17 scale excluding the 3 sleep items (4, 5, and 6) from the total score.
+
+[PREREG_0008, relevance_score=0.069] primaryOutcomes → [1] → timeFrame
+Baseline up to Day 57
+primaryOutcomes → [2] → measure
+Change From Baseline in Hamilton Rating Scale for Depression-17 (HDRS17) Anxiety/Somatization Factor Score
+primaryOutcomes → [2] → description
+The HDRS17 anxiety/somatization factor derived from Cleary and Guy's factor analysis of the HDRS scale, includes six items from the original 17-item version: the items for psychic anxiety, somatic anxiety, gastrointestinal somatic symptoms, general somatic symptoms, hypochondriasis, and insight. Anxious depression is often defined as Major Depressive Disorder (MDD) with high levels of anxiety symptoms, as reflected in an anxiety/ somatization factor score greater than or equal to (\>=) 7. The score ranges from 0 to 18, with higher scores indicating greater severity of symptoms.
+
+[PREREG_0011, relevance_score=0.124] Following the key, the participant is presented with randomly ordered symbols and is required to respond orally by naming the number or enter the number corresponding to each symbol as fast as possible using a keypad. The number of correct substitutions within 90 seconds is recorded by computerized cognitive test battery. secondaryOutcomes → [2] → timeFrame
+Baseline
+secondaryOutcomes → [3] → measure
+Performance Score on a Cognitive Test Battery Evaluated by Word List Recall Test (WLRT)
+secondaryOutcomes → [3] → description
+The WLRT used for the computerized test battery that measures person's ability to encode, consolidate, store, and retrieve verbal information and is a sensitive test of verbal learning and memory in a variety of disease states, including MDD. The memory test will include a list of 15 words presented aloud, one at a time, through the iPad. After the 15-word list is presented, the participant will be asked to verbally recall as many of the words as possible. The 15 word list and participant recall will be conducted 4 more times (total 5 times). After the 5th learning trial and recall, performance on the learning trials of the original word list and on the delayed recall will be considered as the primary scores. The computer tablet will record and score the participant's responses to the evaluation.","There is no mention of ethics approval numbers in the provided registration excerpts, as seen in [PREREG_0002] to [PREREG_0011].",yes,"The paper provides specific ethics approval numbers (e.g., EC UZA [reference number: 17/43/491]; CCMO NL [reference number: NL63487.056.17]) as noted in [PAPER_0009], while the registration excerpts do not mention these numbers, leading to a deviation between the two."
+Ethics approval: committee,"[PAPER_0006, relevance_score=0.039] The current study was
+designed to assess seltorexant’s antidepressant efﬁcacy as a
+monotherapy, and to assess whether the trend toward greater
+efﬁcacy observed at the 20 mg dose as compared to the 40 mg
+dose was reproducible. METHODS
+Trial design
+This multicenter, placebo-controlled, randomized, double-blind, study
+assessed the efﬁcacy, mechanism of action, and safety of seltorexant in
+MDD patients not currently receiving antidepressant therapy. Brieﬂy, the
+study consisted of a screening phase (up to 3 weeks), a double-blind
+treatment phase (8 weeks), and a follow-up phase (1 week) (Fig. 1). The
+double-blind treatment phase consisted of 3 periods: a blinded placebo
+lead-in period, a treatment period (5 weeks), and a blinded placebo
+withdrawal period. The study duration for each patient was ~13 weeks. Fourteen centers across 5 countries (Belgium, Germany, United Kingdom,
+Netherlands, and the US) were involved. The study protocol and
+amendment(s) were reviewed by an Institutional Review Board. Randomization and blinding
+Patients were randomized 1:1:1 to receive placebo, 20-, or 40-mg
+seltorexant.
+
+[PAPER_0009, relevance_score=0.154] Treatment with sedative hypnotics of the
+benzodiazepine or GABAA receptor agonist classes, opioid analgesics or
+antipsychotic agents was not allowed from screening throughout the
+study. Ongoing psychotherapy (if initiated more than 2 months prior to
+randomization) was allowed. The study protocols were reviewed by an
+independent ethics committee or institutional review board at each site
+(e.g., EC UZA [reference number: 17/43/491]; CCMO NL [reference number:
+NL63487.056.17]) and conducted following the principles of Good Clinical
+Practice derived from the Declaration of Helsinki, and in accordance with
+local regulations and International Council of Harmonization guidelines. Patients or their legal representatives provided their written informed
+consent to participate in the study. Analysis sets
+The “enriched” intent-to-treat analysis set (eITT) evaluated for efﬁcacy was
+deﬁned as all enrolled lead-in placebo non-responders (placebo response
+was deﬁned by ≥30% reduction from baseline in HDRS17 total score at the
+end of the placebo lead-in period) randomized into the treatment period
+who received ≥1 dose of study medication and had ≥1 post-baseline
+HDRS17 assessment during the treatment period.
+
+[PAPER_0010, relevance_score=0.044] Safety information was
+summarized using the full safety analysis set, deﬁned as participants who
+received ≥1 dose of study medication. Sample size determination
+An estimated 26 patients in each treatment group (78 total) were planned to
+complete the study in the enriched patient population after excluding
+placebo-responders in the placebo lead-in phase. The study sample size
+chosen (N = 78 non-placebo responders completing the study) was
+expected to allow investigation of the potential effect of seltorexant relative
+to placebo on symptoms of depression based upon power calculations that
+used data from a previous study conducted using the same compound in a
+similar patient population [15]. Assuming a standard deviation (SD) of 5.8 for
+the treatment difference in HDRS17 total score observed in this previous
+study [15], the calculated sample size allowed detection of a difference
+between any seltorexant group and placebo of 3.4 points and 4.2 points,
+respectively, at 20 and 10% one-sided signiﬁcance levels with 90% power. This translated to effect sizes of 0.59 and 0.72, respectively, which were
+comparable to the effect size previously observed [15]. To achieve this eITT sample size, 138 participants were planned to enter
+the lead-in period.
+
+[PAPER_0016, relevance_score=0.038] Of these,
+127 patients were included in the safety population, of whom 86
+were in the eITT set and 40 were lead-in placebo responders. Patients
+were recruited between January 9, 2018, and February 6, 2019. S. Mesens et al. Molecular Psychiatry (2025) 30:2427 – 2435
+Demographic and clinical characteristics are summarized in
+Table 1. A total of 50 (58.8%) of the eITT patients were diagnosed
+with moderate to severe subjective sleep disorder. The mean (SD)
+baseline ISI score was 17.4 (4.40). The treatment groups were
+similar with respect to the baseline characteristics. Of the 86
+patients in the eITT population, 79 (91.9%) completed the study. The dropout rate was 3.3% in the placebo group and 10.7% in
+each seltorexant dose group. Efﬁcacy
+Changes
+in
+HDRS17
+total
+score
+over
+treatment
+period:
+eITT
+analysis set. The mean (SD) HDRS17 total score at Treatment
+Period baseline (i.e., following the blinded placebo Lead-In Period;
+Fig. 1) was 17.9 (4.69).
+
+[PAPER_0036, relevance_score=0.058] The incidence of TEAEs in the
+20 mg seltorexant treatment arm (45.2%) was comparable to that
+observed in the placebo arm (47.7%); TEAEs appeared more
+prevalent in the 40 mg group (61.0%). The most common TEAEs in
+the seltorexant combined group during the treatment phase were
+headache (although the incidence of headache was greater in the
+placebo group) and nasopharyngitis. Sleep paralysis, nightmares,
+and abnormal dreams were reported as AESIs, and generally were
+more common in the 40 mg group than the 20 mg group,
+although these AESIs did not lead to discontinuation of study
+drug. No death or suicidal behavior was reported in the study. A meta-analysis of randomized controlled trials involving FDA-
+approved antidepressant agents [24] reported that compared to
+placebo, the mean weighted effect-size for these agents was 0.37
+(95% CI, 0.33–0.41) in published studies and 0.15 (95% CI, 0.08–0.22)
+in unpublished studies. In contrast, in the current study, which
+involved an MDD sample enriched by removing early placebo
+responders, the effect size for the 20 mg seltorexant dose group was
+0.58.
+
+[PAPER_0037, relevance_score=0.040] Notably, this strong treatment effect was observed despite the
+design limitation that the 1:1:1 randomization schedule limited the
+placebo expectancy to only 0.33, a design element which generally
+is associated with a larger placebo effect in studies of MDD [25, 26]. Limitations
+The study focuses on results in the placebo non-responder
+population, and although the full ITT (fITT) sample (placebo responder
+and non-responder population) showed similar trends, the magnitude
+of the treatment effects was lower in the fITT sample than in the eITT
+sample. The double-blind placebo lead-in period was used to
+proactively exclude early placebo responders from the primary
+efﬁcacy analysis, and to reduce potential effects of expectation and
+incentive biases from the study [27]. This approach is hypothesized to
+enhance the likelihood of obtaining a reliable estimate of treatment
+effect in the enriched population (i.e., based on showing a minimal
+response to placebo in the blinded lead in phase). However, disadvantages to this study design include the
+requirements for a longer study duration and larger sample size
+compared to a simple parallel design of same statistical character-
+istics. The longer duration prolongs the time during which
+depressed patients do not receive active antidepressant treatment
+while participating in the clinical trial.","The study protocols were reviewed by an independent ethics committee or institutional review board at each site, as stated in [PAPER_0009]. The specific committees mentioned include EC UZA and CCMO NL, with their respective reference numbers.","[PREREG_0002, relevance_score=0.100] conditions
+
+conditions → [0]
+Depressive Disorder, Major
+
+design
+
+studyType
+INTERVENTIONAL
+phases → [0]
+PHASE1
+designInfo → allocation
+RANDOMIZED
+designInfo → interventionModel
+PARALLEL
+designInfo → primaryPurpose
+TREATMENT
+designInfo → maskingInfo → masking
+DOUBLE
+designInfo → maskingInfo → whoMasked → [0]
+PARTICIPANT
+designInfo → maskingInfo → whoMasked → [1]
+INVESTIGATOR
+enrollmentInfo → count
+140
+enrollmentInfo → type
+ACTUAL
+
+armsInterventions
+
+armGroups → [0] → label
+Lead-in period: Placebo
+armGroups → [0] → type
+PLACEBO_COMPARATOR
+armGroups → [0] → description
+Participants who successfully complete the baseline examination visit at the clinical site/unit, will be treated with placebo (2 capsules taken orally) for the duration of the lead-in period which will last up to 3 weeks. Investigators and participants will be blinded to exact duration of each participant-specific lead-in period throughout the study.
+
+[PREREG_0004, relevance_score=0.137] armGroups → [1] → interventionNames → [0]
+Drug: JNJ-42847922 20mg
+armGroups → [1] → interventionNames → [1]
+Drug: JNJ-42847922 40mg
+armGroups → [1] → interventionNames → [2]
+Drug: Placebo
+armGroups → [2] → label
+Withdrawal period: Placebo
+armGroups → [2] → type
+PLACEBO_COMPARATOR
+armGroups → [2] → description
+Participants who will complete the treatment period prior to the end of Week 8 will enter the withdrawal period where they will be treated with placebo (2 capsules taken orally) for the remaining time of the double-blind phase of the study. Investigators and participants will be blinded to exact duration of each participant-specific withdrawal period. armGroups → [2] → interventionNames → [0]
+Drug: Placebo
+interventions → [0] → type
+DRUG
+interventions → [0] → name
+JNJ-42847922 20mg
+interventions → [0] → description
+Participants will swallow 20 mg (2\*10 mg) JNJ-42847922 capsule orally for 5 weeks during treatment period.
+
+[PREREG_0006, relevance_score=0.084] interventions → [2] → armGroupLabels → [0]
+Lead-in period: Placebo
+interventions → [2] → armGroupLabels → [1]
+Treatment period: JNJ-42847922 or Placebo
+interventions → [2] → armGroupLabels → [2]
+Withdrawal period: Placebo
+
+outcomes
+
+primaryOutcomes → [0] → measure
+Change From Baseline in Hamilton Rating Scale for Depression-17 (HDRS17) Total Score
+primaryOutcomes → [0] → description
+The HDRS17 is a Clinician-Administered rating scale designed to assess the severity of symptoms in participants diagnosed with depression with a total score range of 0 to 52. It is the most widely used symptom severity measure for depression. Each of the 17 items is rated by the clinician on either a 3- point (0 to 2) or a 5-point scale (0 to 4). The point scale uses a rating of 0 (absent), 1 (doubtful to mild), 2 (mild to moderate), 3 (moderate to severe), and 4 (very severe). Total score will be calculated by summing up the individual item score. The higher the score, the more severe the depression.
+
+[PREREG_0007, relevance_score=0.077] primaryOutcomes → [0] → timeFrame
+Baseline up to Day 57
+primaryOutcomes → [1] → measure
+Change From Baseline in Hamilton Rating Scale for Depression-17 (HDRS17) Sleep Item-Adjusted Total Score
+primaryOutcomes → [1] → description
+The HDRS17 is a Clinician-Administered rating scale designed to assess the severity of symptoms in participants diagnosed with depression with a score range of 0 to 52. It is the most widely used symptom severity measure for depression. Each of the 17 items is rated by the clinician on either a 3- point (0 to 2) or a 5-point scale (0 to 4). The point scale uses a rating of 0 (absent), 1 (doubtful to mild), 2 (mild to moderate), 3 (moderate to severe), and 4 (very severe). Higher scores indicate worsening. HDRS17 Sleep Item-Adjusted is derived from the HDRS17 scale excluding the 3 sleep items (4, 5, and 6) from the total score.
+
+[PREREG_0011, relevance_score=0.080] Following the key, the participant is presented with randomly ordered symbols and is required to respond orally by naming the number or enter the number corresponding to each symbol as fast as possible using a keypad. The number of correct substitutions within 90 seconds is recorded by computerized cognitive test battery. secondaryOutcomes → [2] → timeFrame
+Baseline
+secondaryOutcomes → [3] → measure
+Performance Score on a Cognitive Test Battery Evaluated by Word List Recall Test (WLRT)
+secondaryOutcomes → [3] → description
+The WLRT used for the computerized test battery that measures person's ability to encode, consolidate, store, and retrieve verbal information and is a sensitive test of verbal learning and memory in a variety of disease states, including MDD. The memory test will include a list of 15 words presented aloud, one at a time, through the iPad. After the 15-word list is presented, the participant will be asked to verbally recall as many of the words as possible. The 15 word list and participant recall will be conducted 4 more times (total 5 times). After the 5th learning trial and recall, performance on the learning trials of the original word list and on the delayed recall will be considered as the primary scores. The computer tablet will record and score the participant's responses to the evaluation.
+
+[PREREG_0016, relevance_score=0.087] secondaryOutcomes → [9] → timeFrame
+Up to end of the study (Day 67)
+
+eligibility
+
+eligibilityCriteria
+Inclusion Criteria:
+
+* Have a body mass index (BMI) between 18 and 35 kilogram per meter square (kg/m\^2) inclusive (BMI = weight/height\^2)
+* Participants must be medically stable based on clinical laboratory tests, medical history, vital signs, and 12-lead electrocardiogram (ECG) performed at screening and baseline
+* Population specific: Participant must meet Diagnostic and Statistical Manual of Mental Disorders - fifth edition (DSM-5) diagnostic criteria for MDD (international classification of diseases \[ICD\]-code F32.x and F33.x), without psychotic features, and confirmed by the Mini International Neuropsychiatric Interview (MINI) 7.0; have a Montgomery Asberg Depression Rating Scale (MADRS) total score greater than or equal to (\>=) 25 at screening and must not demonstrate a clinically significant change (that is, an improvement of greater than (\>) 20 percent (%) on their MADRS total score) from the screening to the second completion of MADRS by telephone at most 4 days before the baseline visit; Not currently receiving antidepressant drug therapy for \>= 2 weeks before screening
+* Men who are sexually active with a women of childbearing potential (WOCBP) and have not had a vasectomy must agree to use a barrier method of birth control
+* A woman of childbearing potential must have a negative serum pregnancy test at screening and a negative urine pregnancy test before the first dose
+* A woman must agree not to donate eggs (ova, oocytes) for the purposes of assisted reproduction during the study and for at least 3 months after receiving the last dose of study drug
+
+Exclusion Criteria:
+
+* Has failed more than 2 treatments (no more than 20 percent (%) response) with a differing pharmacological mode of action despite an adequate dose and duration during a previous, or the current depressive episode
+* Has a diagnosis of Cushing's Disease, Addison's Disease, primary amenorrhea, or other evidence of significant medical disorders of the Hypothalamus pituitary adrenal (HPA) axis
+* Is pregnant or breast feeding
+* Participant has received an investigational drug (including investigational vaccines) or used an invasive investigational medical device within 60 days before the planned first dose of study drug, or has participated in 2 or more interventional clinical studies in the previous 1 year, or is currently enrolled in an interventional study
+* Participant is a man who plans to father a child while enrolled in this study or within 3 months after the last dose of study drug
+* Participant has a history of hepatitis B surface antigen (HBsAg) or hepatitis C antibody (anti-HCV) positive, or other clinically active liver disease, or tests positive for HBsAg or anti-HCV at screening
+healthyVolunteers
+False
+sex
+ALL
+minimumAge
+18 Years
+maximumAge
+55 Years
+stdAges → [0]
+ADULT
+
+contactsLocations
+
+overallOfficials → [0] → name
+Janssen Research & Development, LLC Clinical Trial
+overallOfficials → [0] → affiliation
+Janssen Research & Development, LLC
+overallOfficials → [0] → role
+STUDY_DIRECTOR
+locations → [0] → facility
+Artemis Institute for Clinical Research
+locations → [0] → city
+San Diego
+locations → [0] → state
+California
+locations → [0] → zip
+92103
+locations → [0] → country
+United States
+locations → [0] → geoPoint → lat
+32.71571
+locations → [0] → geoPoint → lon
+-117.16472
+locations → [1] → facility
+Artemis Institute for Clinical Research
+locations → [1] → city
+San Marcos
+locations → [1] → state
+California
+locations → [1] → zip
+92078
+locations → [1] → country
+United States
+locations → [1] → geoPoint → lat
+33.14337
+locations → [1] → geoPoint → lon
+-117.16614
+locations → [2] → facility
+Qps-Mra, Llc
+locations → [2] → city
+Miami
+locations → [2] → state
+Florida
+locations → [2] → zip
+33143
+locations → [2] → country
+United States
+locations → [2] → geoPoint → lat
+25.77427
+locations → [2] → geoPoint → lon
+-80.19366
+locations → [3] → facility
+SGS Phase 1 Unit AZ St-Maarten
+locations → [3] → city
+Mechelen
+locations → [3] → zip
+2800
+locations → [3] → country
+Belgium
+locations → [3] → geoPoint → lat
+51.02574
+locations → [3] → geoPoint → lon
+4.47762
+locations → [4] → facility
+Clinical Pharmacology Unit
+locations → [4] → city
+Merksem
+locations → [4] → zip
+2170
+locations → [4] → country
+Belgium
+locations → [4] → geoPoint → lat
+51.24623
+locations → [4] → geoPoint → lon
+4.44903
+locations → [5] → facility
+Charite Research Organisation GmbH
+locations → [5] → city
+Berlin
+locations → [5] → zip
+10117
+locations → [5] → country
+Germany
+locations → [5] → geoPoint → lat
+52.52437
+locations → [5] → geoPoint → lon
+13.41053
+locations → [6] → facility
+Emovis GmbH
+locations → [6] → city
+Berlin
+locations → [6] → zip
+10629
+locations → [6] → country
+Germany
+locations → [6] → geoPoint → lat
+52.52437
+locations → [6] → geoPoint → lon
+13.41053
+locations → [7] → facility
+Fraunhofer-Institut für Toxikologie und Experimentelle Medizin
+locations → [7] → city
+Hanover
+locations → [7] → zip
+30625
+locations → [7] → country
+Germany
+locations → [7] → geoPoint → lat
+52.37052
+locations → [7] → geoPoint → lon
+9.73322
+locations → [8] → facility
+Somni Bene GmbH
+locations → [8] → city
+Schwerin
+locations → [8] → zip
+19053
+locations → [8] → country
+Germany
+locations → [8] → geoPoint → lat
+53.62937
+locations → [8] → geoPoint → lon
+11.41316
+locations → [9] → facility
+Centre for Human Drug Research
+locations → [9] → city
+Leiden
+locations → [9] → zip
+2333 CL
+locations → [9] → country
+Netherlands
+locations → [9] → geoPoint → lat
+52.15833
+locations → [9] → geoPoint → lon
+4.49306
+locations → [10] → facility
+MAC Clinical Research
+locations → [10] → city
+Blackpool
+locations → [10] → zip
+FY2 0JH
+locations → [10] → country
+United Kingdom
+locations → [10] → geoPoint → lat
+53.81667
+locations → [10] → geoPoint → lon
+-3.05
+locations → [11] → facility
+MAC Clinical Research
+locations → [11] → city
+Liverpool
+locations → [11] → zip
+L34 1BH
+locations → [11] → country
+United Kingdom
+locations → [11] → geoPoint → lat
+53.41058
+locations → [11] → geoPoint → lon
+-2.97794
+locations → [12] → facility
+Hammersmith Medicines Research
+locations → [12] → city
+London
+locations → [12] → zip
+NW10 7EW
+locations → [12] → country
+United Kingdom
+locations → [12] → geoPoint → lat
+51.50853
+locations → [12] → geoPoint → lon
+-0.12574
+locations → [13] → facility
+MAC Clinical Research
+locations → [13] → city
+Manchester
+locations → [13] → zip
+M13 9NQ
+locations → [13] → country
+United Kingdom
+locations → [13] → geoPoint → lat
+53.48095
+locations → [13] → geoPoint → lon
+-2.23743
+
+references
+
+references → [0] → pmid
+39663378
+references → [0] → type
+DERIVED
+references → [0] → citation
+Mesens S, Kezic I, Van Der Ark P, Etropolski M, Pandina G, Benes H, Savitz A, Drevets WC.","The registration excerpts do not provide information about the ethics approval committee, as seen in the provided excerpts [PREREG_0002] to [PREREG_0016].",yes,"The paper excerpts [PAPER_0009] mention specific ethics committees (e.g., EC UZA, CCMO NL) that reviewed the study protocols, whereas the registration excerpts do not provide any information about the ethics approval committee, leading to a deviation between the two sources."
+Ethics approval: date,"[PAPER_0005, relevance_score=0.040] A secondary objective
+was
+to
+investigate differential effects of seltorexant as compared to
+placebo on HDRS17 in patients with and without subjective
+insomnia. Moreover, the mechanisms that may underlie seltorex-
+ant’s antidepressant effects and dose response relationship were
+explored by evaluating its effects in depressed participants with
+high versus low levels of rumination, and on polysomnography
+and serum cortisol levels. The doses tested in the current trial were selected based on the
+results of previous trials using seltorexant in MDD. In the initial
+exploratory study in antidepressant-treated MDD patients with
+persistent insomnia cited above, single doses of seltorexant at 10-,
+20-, and 40-mg signiﬁcantly decreased the latency to persistent
+sleep, and increased TST and SE, with the 20- and 40-mg doses
+providing comparable efﬁcacy on these sleep measures [13]. In
+the 6-week double-blind, placebo-controlled study, 20- but not
+10- or 40-mg seltorexant qhs showed signiﬁcant efﬁcacy when
+administered adjunctively to an SSRI/SNRI in MDD patients,
+although the 40 mg dose showed similar antidepressant response
+and remission rates as the 20 mg dose [6].
+
+[PAPER_0009, relevance_score=0.070] Treatment with sedative hypnotics of the
+benzodiazepine or GABAA receptor agonist classes, opioid analgesics or
+antipsychotic agents was not allowed from screening throughout the
+study. Ongoing psychotherapy (if initiated more than 2 months prior to
+randomization) was allowed. The study protocols were reviewed by an
+independent ethics committee or institutional review board at each site
+(e.g., EC UZA [reference number: 17/43/491]; CCMO NL [reference number:
+NL63487.056.17]) and conducted following the principles of Good Clinical
+Practice derived from the Declaration of Helsinki, and in accordance with
+local regulations and International Council of Harmonization guidelines. Patients or their legal representatives provided their written informed
+consent to participate in the study. Analysis sets
+The “enriched” intent-to-treat analysis set (eITT) evaluated for efﬁcacy was
+deﬁned as all enrolled lead-in placebo non-responders (placebo response
+was deﬁned by ≥30% reduction from baseline in HDRS17 total score at the
+end of the placebo lead-in period) randomized into the treatment period
+who received ≥1 dose of study medication and had ≥1 post-baseline
+HDRS17 assessment during the treatment period.
+
+[PAPER_0014, relevance_score=0.054] Statistical methods
+The primary hypothesis tested was that seltorexant is superior to placebo
+in the treatment of MDD when given as a monotherapy. A secondary
+objective was that the antidepressant treatment effect would be greater in
+patients with moderate-severe insomnia. The effect of seltorexant on
+symptoms of depression during the treatment period was evaluated using
+change from treatment baseline in HDRS17 total score, HDRS17 Sleep Item-
+Adjusted score and HDRSAM-6 score during the treatment period. [14]. The primary hypothesis was tested by comparing the changes in HDRS17
+total score after treatment Week 5 using a mixed-effects model for
+repeated measures (MMRM), with subject as random factor; presence of
+subjective sleep disorder, time, treatment (placebo, seltorexant) and time-
+by-treatment interaction as factors and treatment baseline score as a
+continuous
+covariate.
+
+[PAPER_0016, relevance_score=0.019] Of these,
+127 patients were included in the safety population, of whom 86
+were in the eITT set and 40 were lead-in placebo responders. Patients
+were recruited between January 9, 2018, and February 6, 2019. S. Mesens et al. Molecular Psychiatry (2025) 30:2427 – 2435
+Demographic and clinical characteristics are summarized in
+Table 1. A total of 50 (58.8%) of the eITT patients were diagnosed
+with moderate to severe subjective sleep disorder. The mean (SD)
+baseline ISI score was 17.4 (4.40). The treatment groups were
+similar with respect to the baseline characteristics. Of the 86
+patients in the eITT population, 79 (91.9%) completed the study. The dropout rate was 3.3% in the placebo group and 10.7% in
+each seltorexant dose group. Efﬁcacy
+Changes
+in
+HDRS17
+total
+score
+over
+treatment
+period:
+eITT
+analysis set. The mean (SD) HDRS17 total score at Treatment
+Period baseline (i.e., following the blinded placebo Lead-In Period;
+Fig. 1) was 17.9 (4.69).
+
+[PAPER_0020, relevance_score=0.019] At
+Treatment Week 5 the percentages of patients in the eITT
+population who achieved remission, deﬁned conventionally by
+HDRS17 total score ≤7, were 26.9% for the 20 mg, 29.2% for the
+40 mg, and 13.8% for the placebo groups (Supplemental Table 1). Changes in self-rated QIDS-SR16 over treatment period. In the eITT
+population, the mean (SD) change in QIDS-SR16 total score from
+baseline to Treatment Week 5 was −3.7 (4.84) for the 20 mg group,
+−3.0 (4.77) for the 40 mg group, and −1.7 (4.44) for the placebo group. Changes in RRS over treatment period. The mean (SD) RRS total
+score at treatment baseline was 52.5 (12.05) for placebo group, 54.7
+(14.51) for seltorexant 20 mg group, and 53.9 (11.37) for seltorexant
+40 mg group (Supplemental Table 2).
+
+[PAPER_0021, relevance_score=0.019] The mean (SD) reduction in
+total RRS scores from Treatment baseline to treatment Week 5 was
+numerically greater in the seltorexant groups: −6.7 (12.31) for
+seltorexant 20 mg and −6.7 (9.45) for seltorexant 40 mg, compared
+to the placebo group at −3.8 (7.35) (Supplemental Table 3). Table 1. Demographics and patient characteristics: eITT analysis set.","The paper mentions that the study protocols were reviewed by an independent ethics committee or institutional review board at each site, as seen in [PAPER_0009], but does not provide a specific date for ethics approval.","[PREREG_0001, relevance_score=0.129] identification
+
+nctId
+NCT03374475
+orgStudyIdInfo → id
+CR108382
+secondaryIdInfos → [0] → id
+2017-002633-28
+secondaryIdInfos → [0] → type
+EUDRACT_NUMBER
+secondaryIdInfos → [1] → id
+42847922MDD1009
+secondaryIdInfos → [1] → type
+OTHER
+secondaryIdInfos → [1] → domain
+Janssen Research & Development, LLC
+organization → fullName
+Janssen Research & Development, LLC
+organization → class
+INDUSTRY
+briefTitle
+A Study to Investigate the Antidepressant Mechanism-of-action of JNJ-42847922 in Participants With Major Depressive Disorder
+officialTitle
+An Exploratory, Multicenter, Placebo-controlled, Randomized, Double-blind Study to Investigate the Antidepressant Mechanism-of-action of JNJ-42847922 in Subjects With Major Depressive Disorder
+
+status
+
+statusVerifiedDate
+2025-04
+overallStatus
+COMPLETED
+expandedAccessInfo → hasExpandedAccess
+False
+startDateStruct → date
+2018-01-05
+startDateStruct → type
+ACTUAL
+primaryCompletionDateStruct → date
+2019-04-29
+primaryCompletionDateStruct → type
+ACTUAL
+completionDateStruct → date
+2019-04-29
+completionDateStruct → type
+ACTUAL
+studyFirstSubmitDate
+2017-12-04
+studyFirstSubmitQcDate
+2017-12-14
+studyFirstPostDateStruct → date
+2017-12-15
+studyFirstPostDateStruct → type
+ACTUAL
+lastUpdateSubmitDate
+2025-04-25
+lastUpdatePostDateStruct → date
+2025-04-27
+lastUpdatePostDateStruct → type
+ACTUAL
+
+sponsorCollaborators
+
+responsibleParty → type
+SPONSOR
+leadSponsor → name
+Janssen Research & Development, LLC
+leadSponsor → class
+INDUSTRY
+
+oversight
+
+oversightHasDmc
+False
+isFdaRegulatedDrug
+True
+isFdaRegulatedDevice
+False
+
+description
+
+briefSummary
+The purpose of this study is to explore if the magnitude of treatment effect (JNJ-42847922; placebo) on symptoms of depression (as measured by Hamilton rating scale for depression-17 \[HDRS17\], Sleep item-adjusted HDRS17, Anxiety/somatization factor score and the 6-item subscale from HDRS17 \[HAM-D6\]) differs across different levels of hyper-arousal status (characterized by Sleep parameters, ruminative response scale \[RRS\], Sleep and Worry visual analogue scale \[VAS\], quantitative electro-encephalography \[qEEG\], heart rate variability \[HRV\] and others).
+
+[PREREG_0004, relevance_score=0.018] armGroups → [1] → interventionNames → [0]
+Drug: JNJ-42847922 20mg
+armGroups → [1] → interventionNames → [1]
+Drug: JNJ-42847922 40mg
+armGroups → [1] → interventionNames → [2]
+Drug: Placebo
+armGroups → [2] → label
+Withdrawal period: Placebo
+armGroups → [2] → type
+PLACEBO_COMPARATOR
+armGroups → [2] → description
+Participants who will complete the treatment period prior to the end of Week 8 will enter the withdrawal period where they will be treated with placebo (2 capsules taken orally) for the remaining time of the double-blind phase of the study. Investigators and participants will be blinded to exact duration of each participant-specific withdrawal period. armGroups → [2] → interventionNames → [0]
+Drug: Placebo
+interventions → [0] → type
+DRUG
+interventions → [0] → name
+JNJ-42847922 20mg
+interventions → [0] → description
+Participants will swallow 20 mg (2\*10 mg) JNJ-42847922 capsule orally for 5 weeks during treatment period.
+
+[PREREG_0006, relevance_score=0.021] interventions → [2] → armGroupLabels → [0]
+Lead-in period: Placebo
+interventions → [2] → armGroupLabels → [1]
+Treatment period: JNJ-42847922 or Placebo
+interventions → [2] → armGroupLabels → [2]
+Withdrawal period: Placebo
+
+outcomes
+
+primaryOutcomes → [0] → measure
+Change From Baseline in Hamilton Rating Scale for Depression-17 (HDRS17) Total Score
+primaryOutcomes → [0] → description
+The HDRS17 is a Clinician-Administered rating scale designed to assess the severity of symptoms in participants diagnosed with depression with a total score range of 0 to 52. It is the most widely used symptom severity measure for depression. Each of the 17 items is rated by the clinician on either a 3- point (0 to 2) or a 5-point scale (0 to 4). The point scale uses a rating of 0 (absent), 1 (doubtful to mild), 2 (mild to moderate), 3 (moderate to severe), and 4 (very severe). Total score will be calculated by summing up the individual item score. The higher the score, the more severe the depression.
+
+[PREREG_0007, relevance_score=0.021] primaryOutcomes → [0] → timeFrame
+Baseline up to Day 57
+primaryOutcomes → [1] → measure
+Change From Baseline in Hamilton Rating Scale for Depression-17 (HDRS17) Sleep Item-Adjusted Total Score
+primaryOutcomes → [1] → description
+The HDRS17 is a Clinician-Administered rating scale designed to assess the severity of symptoms in participants diagnosed with depression with a score range of 0 to 52. It is the most widely used symptom severity measure for depression. Each of the 17 items is rated by the clinician on either a 3- point (0 to 2) or a 5-point scale (0 to 4). The point scale uses a rating of 0 (absent), 1 (doubtful to mild), 2 (mild to moderate), 3 (moderate to severe), and 4 (very severe). Higher scores indicate worsening. HDRS17 Sleep Item-Adjusted is derived from the HDRS17 scale excluding the 3 sleep items (4, 5, and 6) from the total score.
+
+[PREREG_0009, relevance_score=0.020] primaryOutcomes → [2] → timeFrame
+Baseline up to Day 57
+primaryOutcomes → [3] → measure
+Change From Baseline in 6 Item Subscale From HDRS17 (HAM-D6) Score
+primaryOutcomes → [3] → description
+The 6-Item Hamilton Depression Scale (HAMD-6), derived by the sum of HAMD-17 items (the six items in the HAM-D6 are: depressed mood, guilt feelings, work and interests, psychomotor retardation, psychic anxiety, and general somatics \[tiredness and pains\]), evaluates ""core"" symptoms of Major Depressive Disorder (MDD). Total subscale scores range from 0 (normal) to 22 (severe). The higher the score, the more severe the depression. primaryOutcomes → [3] → timeFrame
+Baseline up to Day 57
+secondaryOutcomes → [0] → measure
+Change From Baseline in Quick Inventory of Depressive Symptomatology-Self Report (QIDS-SR16)
+secondaryOutcomes → [0] → description
+The QIDS-SR16 is a patient reported measure designed to assess the severity of depressive symptoms. The total score ranges from 0 to 27.
+
+[PREREG_0011, relevance_score=0.017] Following the key, the participant is presented with randomly ordered symbols and is required to respond orally by naming the number or enter the number corresponding to each symbol as fast as possible using a keypad. The number of correct substitutions within 90 seconds is recorded by computerized cognitive test battery. secondaryOutcomes → [2] → timeFrame
+Baseline
+secondaryOutcomes → [3] → measure
+Performance Score on a Cognitive Test Battery Evaluated by Word List Recall Test (WLRT)
+secondaryOutcomes → [3] → description
+The WLRT used for the computerized test battery that measures person's ability to encode, consolidate, store, and retrieve verbal information and is a sensitive test of verbal learning and memory in a variety of disease states, including MDD. The memory test will include a list of 15 words presented aloud, one at a time, through the iPad. After the 15-word list is presented, the participant will be asked to verbally recall as many of the words as possible. The 15 word list and participant recall will be conducted 4 more times (total 5 times). After the 5th learning trial and recall, performance on the learning trials of the original word list and on the delayed recall will be considered as the primary scores. The computer tablet will record and score the participant's responses to the evaluation.","The registration provides submission and QC dates, as seen in [PREREG_0001], but does not explicitly state the ethics approval date. However, it does provide a studyFirstSubmitDate of 2017-12-04 and a studyFirstSubmitQcDate of 2017-12-14.",missing,"The registration and paper excerpts do not provide a clear ethics approval date. While [PAPER_0009] mentions the review of study protocols by an ethics committee, and [PREREG_0001] provides submission and QC dates, neither source explicitly states the date of ethics approval, leading to a judgement of 'missing' due to insufficient evidence."
+Recruitment: Date recruitment started,"[PAPER_0017, relevance_score=0.038] The mean change from Treatment Period
+baseline (SD) in HDRS17 total score at Treatment Week 5 was −7.0
+(5.04) for Seltorexant 20 mg, −5.5 (4.34) for Seltorexant 40 mg and
+−4.4 (3.67) for placebo. Based on the results from the MMRM
+model, a signiﬁcant positive efﬁcacy signal was detected for
+seltorexant across dose levels versus placebo (p = 0.0456). The
+LSMean differences at Treatment Week 5 between seltorexant and
+placebo were: −2.9 (80% CI [−4.4, −1.5]; p = 0.0049) for 20 mg
+and −0.9 (80% CI [−2.3, 0.6]; p = 0.2271) for 40 mg (Fig. 2A). Changes in HDRS17 sleep adjusted total score and HAM-D6 subscale
+score over treatment period: eITT analysis set.
+
+[PAPER_0019, relevance_score=0.037] In each of the subgroups
+manifesting hyperarousal, the LSMean difference relative to
+placebo appeared numerically larger for the seltorexant 20 mg
+arm than for the 40 mg arm (Fig. 2B). Notably, the largest LSMean
+difference versus placebo was observed in patients with RRS ≥50
+treated with 20 mg: −5.06 with 80%CI [−7.04, −3.07]. Clinical
+response
+deﬁned
+by
+50%
+improvement
+in
+HDRS17
+total score. The percentages of patients in the eITT population
+who manifested an antidepressant response, deﬁned convention-
+ally by ≥50% improvement in the HDRS17 total score at Treatment
+Week 5, were 30.8% for the 20 mg, 29.2% for the 40 mg, and
+10.3% for the placebo groups (Supplemental Fig. 1). Remission rates deﬁned by achieving HDRS17 total score ≤7.
+
+[PAPER_0020, relevance_score=0.042] At
+Treatment Week 5 the percentages of patients in the eITT
+population who achieved remission, deﬁned conventionally by
+HDRS17 total score ≤7, were 26.9% for the 20 mg, 29.2% for the
+40 mg, and 13.8% for the placebo groups (Supplemental Table 1). Changes in self-rated QIDS-SR16 over treatment period. In the eITT
+population, the mean (SD) change in QIDS-SR16 total score from
+baseline to Treatment Week 5 was −3.7 (4.84) for the 20 mg group,
+−3.0 (4.77) for the 40 mg group, and −1.7 (4.44) for the placebo group. Changes in RRS over treatment period. The mean (SD) RRS total
+score at treatment baseline was 52.5 (12.05) for placebo group, 54.7
+(14.51) for seltorexant 20 mg group, and 53.9 (11.37) for seltorexant
+40 mg group (Supplemental Table 2).
+
+[PAPER_0021, relevance_score=0.039] The mean (SD) reduction in
+total RRS scores from Treatment baseline to treatment Week 5 was
+numerically greater in the seltorexant groups: −6.7 (12.31) for
+seltorexant 20 mg and −6.7 (9.45) for seltorexant 40 mg, compared
+to the placebo group at −3.8 (7.35) (Supplemental Table 3). Table 1. Demographics and patient characteristics: eITT analysis set.
+
+[PAPER_0023, relevance_score=0.035] aTreatment baseline. S. Mesens et al. Molecular Psychiatry (2025) 30:2427 – 2435
+Cortisol waking response. The cortisol waking response numeri-
+cally decreased in both active treatment groups, with a larger
+magnitude of reduction seen in the seltorexant 20 mg group: the
+mean changes from lead-in baseline (SD) at Treatment Week 3/4
+were −52.0 (132.98) nmol/L for seltorexant 20 mg, −15.6 (138.44)
+nmol/L for seltorexant 40 mg, and 0.9 (122.44) nmol/L for placebo
+(Fig. 3A). Based on the ANCOVA model the difference from placebo
+was signiﬁcant for the seltorexant 20 mg group, but not for the
+seltorexant 40 mg group, with estimated LS Mean differences at
+Treatment Week 3/4 between seltorexant relative to placebo being
+−52.3 (90% CI [−98.1, −6.4]; p = 0.0308) for 20 mg and 6.2 (90% CI
+[−41.7, 54.0]; p = 0.5848) for 40 mg (Fig. 3B).
+
+[PAPER_0038, relevance_score=0.079] The requirement for a larger
+sample size was partly offset by using one-sided statistical tests to
+improve power by focusing on one tail of the distribution (i.e., in
+Phase 1b or 2a trials, only improvement relative to placebo is of
+interest for progressing compounds further in clinical development). The generalizability of the results was limited by the inclusion of a
+largely Caucasian participant sample and the initial exclusion of
+WOCBP, which led to a higher proportion of men than is
+representative of the general MDD population. An initial preclinical
+reproductive toxicology study in rats indicated that treatment with
+seltorexant (25, 150, and 400 mg/kg) was associated with abnormal
+estrus cycles in individual females and non-dose responsive
+changes in reproductive performance (lower fertility and lower
+conception indices). Once these data became available, a safety
+measure was implemented to preclude enrollment of WOCBP in
+ongoing seltorexant studies until the results of a second preclinical
+reproductive toxicology study were obtained to establish the safety
+margin and characterize the reversibility of the effects observed on
+fertility and conception indices.","There is no information available in the provided paper excerpts regarding the recruitment start date. [PAPER_0017], [PAPER_0019], [PAPER_0020], [PAPER_0021], [PAPER_0023], and [PAPER_0038] do not mention the recruitment start date.","[PREREG_0001, relevance_score=0.124] identification
+
+nctId
+NCT03374475
+orgStudyIdInfo → id
+CR108382
+secondaryIdInfos → [0] → id
+2017-002633-28
+secondaryIdInfos → [0] → type
+EUDRACT_NUMBER
+secondaryIdInfos → [1] → id
+42847922MDD1009
+secondaryIdInfos → [1] → type
+OTHER
+secondaryIdInfos → [1] → domain
+Janssen Research & Development, LLC
+organization → fullName
+Janssen Research & Development, LLC
+organization → class
+INDUSTRY
+briefTitle
+A Study to Investigate the Antidepressant Mechanism-of-action of JNJ-42847922 in Participants With Major Depressive Disorder
+officialTitle
+An Exploratory, Multicenter, Placebo-controlled, Randomized, Double-blind Study to Investigate the Antidepressant Mechanism-of-action of JNJ-42847922 in Subjects With Major Depressive Disorder
+
+status
+
+statusVerifiedDate
+2025-04
+overallStatus
+COMPLETED
+expandedAccessInfo → hasExpandedAccess
+False
+startDateStruct → date
+2018-01-05
+startDateStruct → type
+ACTUAL
+primaryCompletionDateStruct → date
+2019-04-29
+primaryCompletionDateStruct → type
+ACTUAL
+completionDateStruct → date
+2019-04-29
+completionDateStruct → type
+ACTUAL
+studyFirstSubmitDate
+2017-12-04
+studyFirstSubmitQcDate
+2017-12-14
+studyFirstPostDateStruct → date
+2017-12-15
+studyFirstPostDateStruct → type
+ACTUAL
+lastUpdateSubmitDate
+2025-04-25
+lastUpdatePostDateStruct → date
+2025-04-27
+lastUpdatePostDateStruct → type
+ACTUAL
+
+sponsorCollaborators
+
+responsibleParty → type
+SPONSOR
+leadSponsor → name
+Janssen Research & Development, LLC
+leadSponsor → class
+INDUSTRY
+
+oversight
+
+oversightHasDmc
+False
+isFdaRegulatedDrug
+True
+isFdaRegulatedDevice
+False
+
+description
+
+briefSummary
+The purpose of this study is to explore if the magnitude of treatment effect (JNJ-42847922; placebo) on symptoms of depression (as measured by Hamilton rating scale for depression-17 \[HDRS17\], Sleep item-adjusted HDRS17, Anxiety/somatization factor score and the 6-item subscale from HDRS17 \[HAM-D6\]) differs across different levels of hyper-arousal status (characterized by Sleep parameters, ruminative response scale \[RRS\], Sleep and Worry visual analogue scale \[VAS\], quantitative electro-encephalography \[qEEG\], heart rate variability \[HRV\] and others).
+
+[PREREG_0002, relevance_score=0.049] conditions
+
+conditions → [0]
+Depressive Disorder, Major
+
+design
+
+studyType
+INTERVENTIONAL
+phases → [0]
+PHASE1
+designInfo → allocation
+RANDOMIZED
+designInfo → interventionModel
+PARALLEL
+designInfo → primaryPurpose
+TREATMENT
+designInfo → maskingInfo → masking
+DOUBLE
+designInfo → maskingInfo → whoMasked → [0]
+PARTICIPANT
+designInfo → maskingInfo → whoMasked → [1]
+INVESTIGATOR
+enrollmentInfo → count
+140
+enrollmentInfo → type
+ACTUAL
+
+armsInterventions
+
+armGroups → [0] → label
+Lead-in period: Placebo
+armGroups → [0] → type
+PLACEBO_COMPARATOR
+armGroups → [0] → description
+Participants who successfully complete the baseline examination visit at the clinical site/unit, will be treated with placebo (2 capsules taken orally) for the duration of the lead-in period which will last up to 3 weeks. Investigators and participants will be blinded to exact duration of each participant-specific lead-in period throughout the study.
+
+[PREREG_0004, relevance_score=0.046] armGroups → [1] → interventionNames → [0]
+Drug: JNJ-42847922 20mg
+armGroups → [1] → interventionNames → [1]
+Drug: JNJ-42847922 40mg
+armGroups → [1] → interventionNames → [2]
+Drug: Placebo
+armGroups → [2] → label
+Withdrawal period: Placebo
+armGroups → [2] → type
+PLACEBO_COMPARATOR
+armGroups → [2] → description
+Participants who will complete the treatment period prior to the end of Week 8 will enter the withdrawal period where they will be treated with placebo (2 capsules taken orally) for the remaining time of the double-blind phase of the study. Investigators and participants will be blinded to exact duration of each participant-specific withdrawal period. armGroups → [2] → interventionNames → [0]
+Drug: Placebo
+interventions → [0] → type
+DRUG
+interventions → [0] → name
+JNJ-42847922 20mg
+interventions → [0] → description
+Participants will swallow 20 mg (2\*10 mg) JNJ-42847922 capsule orally for 5 weeks during treatment period.
+
+[PREREG_0007, relevance_score=0.033] primaryOutcomes → [0] → timeFrame
+Baseline up to Day 57
+primaryOutcomes → [1] → measure
+Change From Baseline in Hamilton Rating Scale for Depression-17 (HDRS17) Sleep Item-Adjusted Total Score
+primaryOutcomes → [1] → description
+The HDRS17 is a Clinician-Administered rating scale designed to assess the severity of symptoms in participants diagnosed with depression with a score range of 0 to 52. It is the most widely used symptom severity measure for depression. Each of the 17 items is rated by the clinician on either a 3- point (0 to 2) or a 5-point scale (0 to 4). The point scale uses a rating of 0 (absent), 1 (doubtful to mild), 2 (mild to moderate), 3 (moderate to severe), and 4 (very severe). Higher scores indicate worsening. HDRS17 Sleep Item-Adjusted is derived from the HDRS17 scale excluding the 3 sleep items (4, 5, and 6) from the total score.
+
+[PREREG_0011, relevance_score=0.047] Following the key, the participant is presented with randomly ordered symbols and is required to respond orally by naming the number or enter the number corresponding to each symbol as fast as possible using a keypad. The number of correct substitutions within 90 seconds is recorded by computerized cognitive test battery. secondaryOutcomes → [2] → timeFrame
+Baseline
+secondaryOutcomes → [3] → measure
+Performance Score on a Cognitive Test Battery Evaluated by Word List Recall Test (WLRT)
+secondaryOutcomes → [3] → description
+The WLRT used for the computerized test battery that measures person's ability to encode, consolidate, store, and retrieve verbal information and is a sensitive test of verbal learning and memory in a variety of disease states, including MDD. The memory test will include a list of 15 words presented aloud, one at a time, through the iPad. After the 15-word list is presented, the participant will be asked to verbally recall as many of the words as possible. The 15 word list and participant recall will be conducted 4 more times (total 5 times). After the 5th learning trial and recall, performance on the learning trials of the original word list and on the delayed recall will be considered as the primary scores. The computer tablet will record and score the participant's responses to the evaluation.
+
+[PREREG_0012, relevance_score=0.036] secondaryOutcomes → [3] → timeFrame
+Baseline
+secondaryOutcomes → [4] → measure
+Performance Score on a Cognitive Test Battery Evaluated by Trail Making Test Form B (TMT-B)
+secondaryOutcomes → [4] → description
+The computerized (Revere.D) version of the TMT-B is modeled after the paper-and-pencil version of the test. The TMT-B measures divided attention and executive function (tracking and sequencing). The participant is instructed to draw a line to connect a set of 25 consecutively numbered and lettered circles, alternating sequentially between numbers and letters (that is, 1 A 2 B). The participant is instructed to work as quickly as possible while still maintaining accuracy. The TMT-B has acceptable reliability; reliability coefficients have typically been reported as exceeding 0.65. The TMT-B is sensitive to cognitive decline associated with MDD. secondaryOutcomes → [4] → timeFrame
+Baseline
+secondaryOutcomes → [5] → measure
+Change From Baseline in Bond & Lader (B&L) Visual Analogue Scale (VAS)
+secondaryOutcomes → [5] → description
+The B\&L VAS is made up of 16 pairs of alternative descriptors of mood and attention at either end. The Bond-Lader of a 10 cm line. Participants will rate their feelings at the time of assessment by indicating the point on the line which best represent their mood.",The recruitment start date is mentioned as 2018-01-05 in the registration excerpts. [PREREG_0001] provides this information.,missing,"The deviation judgement is set to 'missing' because there is no information available in the provided paper excerpts regarding the recruitment start date to compare with the registration excerpts. [PAPER_0017], [PAPER_0019], [PAPER_0020], [PAPER_0021], [PAPER_0023], and [PAPER_0038] do not mention the recruitment start date, while [PREREG_0001] provides the recruitment start date as 2018-01-05."
+Outcomes: primary,"[PAPER_0006, relevance_score=0.159] The current study was
+designed to assess seltorexant’s antidepressant efﬁcacy as a
+monotherapy, and to assess whether the trend toward greater
+efﬁcacy observed at the 20 mg dose as compared to the 40 mg
+dose was reproducible. METHODS
+Trial design
+This multicenter, placebo-controlled, randomized, double-blind, study
+assessed the efﬁcacy, mechanism of action, and safety of seltorexant in
+MDD patients not currently receiving antidepressant therapy. Brieﬂy, the
+study consisted of a screening phase (up to 3 weeks), a double-blind
+treatment phase (8 weeks), and a follow-up phase (1 week) (Fig. 1). The
+double-blind treatment phase consisted of 3 periods: a blinded placebo
+lead-in period, a treatment period (5 weeks), and a blinded placebo
+withdrawal period. The study duration for each patient was ~13 weeks. Fourteen centers across 5 countries (Belgium, Germany, United Kingdom,
+Netherlands, and the US) were involved. The study protocol and
+amendment(s) were reviewed by an Institutional Review Board. Randomization and blinding
+Patients were randomized 1:1:1 to receive placebo, 20-, or 40-mg
+seltorexant.
+
+[PAPER_0014, relevance_score=0.080] Statistical methods
+The primary hypothesis tested was that seltorexant is superior to placebo
+in the treatment of MDD when given as a monotherapy. A secondary
+objective was that the antidepressant treatment effect would be greater in
+patients with moderate-severe insomnia. The effect of seltorexant on
+symptoms of depression during the treatment period was evaluated using
+change from treatment baseline in HDRS17 total score, HDRS17 Sleep Item-
+Adjusted score and HDRSAM-6 score during the treatment period. [14]. The primary hypothesis was tested by comparing the changes in HDRS17
+total score after treatment Week 5 using a mixed-effects model for
+repeated measures (MMRM), with subject as random factor; presence of
+subjective sleep disorder, time, treatment (placebo, seltorexant) and time-
+by-treatment interaction as factors and treatment baseline score as a
+continuous
+covariate.
+
+[PAPER_0024, relevance_score=0.066] Cortisol Nadir levels. The mean cortisol nadir levels at Treatment
+Week 3/4 vs Lead-in baseline numerically trended lower in all
+three treatment groups (Fig. 3C). The magnitude of reduction was
+numerically larger in the seltorexant 20 mg group: the mean
+change from lead-in baseline (SD) at Treatment Week 3/4 was
+−37.4 (137.80) nmol/L for seltorexant 20 mg, −13.7 (62.39) nmol/L
+for seltorexant 40 mg, and −6.5 (109.55) nmol/L for placebo
+(Fig. 3D). PSG assessments. In the eITT population, the mean changes from
+baseline in the main PSG parameters (Latency to Persistent Sleep
+[LPS], WASO, TST, and SE) at Treatment Week 3/4 indicated greater
+improvement in participants treated with 20- or 40-mg seltorexant
+than in participants treated with placebo (Supplemental Table 4). For both seltorexant doses the reductions in LPS and the increases
+in TST and SE showed effect sizes >0.5 along with 90% CI which
+did not overlap 0.
+
+[PAPER_0033, relevance_score=0.050] Self-assessment of depressive symptoms (QIDS-SR16)
+reﬂected subjective improvements in both seltorexant groups
+compared to placebo that were numerically most prominent in
+the 20 mg group. Nevertheless, it is noteworthy that in both the
+current and previous [6] studies the response and remission rates
+for the 20- and 40-mg seltorexant doses appeared similar, which
+in both cases were greater than those achieved on placebo. For sleep as measured by PSG, relative to placebo both the 20- and
+40-mg seltorexant doses showed greater reductions in LPS and
+WASO, along with increases in TST and SE, with the improvements in
+these parameters being numerically greater for the 40 mg than the
+20 mg seltorexant dose. However, participants receiving 40 mg of
+seltorexant also showed more time spent in the shallower N1 sleep
+stage and shorter latency to REM sleep, ﬁndings not observed in the
+20 mg dose group. Considered together with the observation that the
+20 mg dose showed a larger antidepressant treatment effect than the
+40 mg dose, these data suggest that seltorexant’s antidepressant
+treatment effect does not depend simply on increasing the total
+amount of sleep but may additionally involve the restoration and/or
+maintenance of physiological sleep (see below).
+
+[PAPER_0037, relevance_score=0.079] Notably, this strong treatment effect was observed despite the
+design limitation that the 1:1:1 randomization schedule limited the
+placebo expectancy to only 0.33, a design element which generally
+is associated with a larger placebo effect in studies of MDD [25, 26]. Limitations
+The study focuses on results in the placebo non-responder
+population, and although the full ITT (fITT) sample (placebo responder
+and non-responder population) showed similar trends, the magnitude
+of the treatment effects was lower in the fITT sample than in the eITT
+sample. The double-blind placebo lead-in period was used to
+proactively exclude early placebo responders from the primary
+efﬁcacy analysis, and to reduce potential effects of expectation and
+incentive biases from the study [27]. This approach is hypothesized to
+enhance the likelihood of obtaining a reliable estimate of treatment
+effect in the enriched population (i.e., based on showing a minimal
+response to placebo in the blinded lead in phase). However, disadvantages to this study design include the
+requirements for a longer study duration and larger sample size
+compared to a simple parallel design of same statistical character-
+istics. The longer duration prolongs the time during which
+depressed patients do not receive active antidepressant treatment
+while participating in the clinical trial.
+
+[PAPER_0039, relevance_score=0.079] In subsequent clinical studies,
+female participants with MDD, including WOCBP, have received
+seltorexant in phase 2 and phase 3 studies to assess the
+generalizability of the observed safety/efﬁcacy data to WOCBP. S. Mesens et al. Molecular Psychiatry (2025) 30:2427 – 2435
+DATA AVAILABILITY
+The data sharing policy of the Janssen Pharmaceutical Companies of Johnson &
+Johnson is available at https://www.janssen.com/clinical–trials/transparency. As
+noted on this site, requests for access to the clinical study data can be submitted
+through the Yale Open Data Access (YODA) Project site at http://yoda.yale.edu.","The paper's primary outcome is the change from baseline in HDRS17 total score, HDRS17 Sleep Item-Adjusted score, and HDRSAM-6 score during the treatment period, as stated in [PAPER_0014].","[PREREG_0002, relevance_score=0.049] conditions
+
+conditions → [0]
+Depressive Disorder, Major
+
+design
+
+studyType
+INTERVENTIONAL
+phases → [0]
+PHASE1
+designInfo → allocation
+RANDOMIZED
+designInfo → interventionModel
+PARALLEL
+designInfo → primaryPurpose
+TREATMENT
+designInfo → maskingInfo → masking
+DOUBLE
+designInfo → maskingInfo → whoMasked → [0]
+PARTICIPANT
+designInfo → maskingInfo → whoMasked → [1]
+INVESTIGATOR
+enrollmentInfo → count
+140
+enrollmentInfo → type
+ACTUAL
+
+armsInterventions
+
+armGroups → [0] → label
+Lead-in period: Placebo
+armGroups → [0] → type
+PLACEBO_COMPARATOR
+armGroups → [0] → description
+Participants who successfully complete the baseline examination visit at the clinical site/unit, will be treated with placebo (2 capsules taken orally) for the duration of the lead-in period which will last up to 3 weeks. Investigators and participants will be blinded to exact duration of each participant-specific lead-in period throughout the study.
+
+[PREREG_0004, relevance_score=0.051] armGroups → [1] → interventionNames → [0]
+Drug: JNJ-42847922 20mg
+armGroups → [1] → interventionNames → [1]
+Drug: JNJ-42847922 40mg
+armGroups → [1] → interventionNames → [2]
+Drug: Placebo
+armGroups → [2] → label
+Withdrawal period: Placebo
+armGroups → [2] → type
+PLACEBO_COMPARATOR
+armGroups → [2] → description
+Participants who will complete the treatment period prior to the end of Week 8 will enter the withdrawal period where they will be treated with placebo (2 capsules taken orally) for the remaining time of the double-blind phase of the study. Investigators and participants will be blinded to exact duration of each participant-specific withdrawal period. armGroups → [2] → interventionNames → [0]
+Drug: Placebo
+interventions → [0] → type
+DRUG
+interventions → [0] → name
+JNJ-42847922 20mg
+interventions → [0] → description
+Participants will swallow 20 mg (2\*10 mg) JNJ-42847922 capsule orally for 5 weeks during treatment period.
+
+[PREREG_0006, relevance_score=0.149] interventions → [2] → armGroupLabels → [0]
+Lead-in period: Placebo
+interventions → [2] → armGroupLabels → [1]
+Treatment period: JNJ-42847922 or Placebo
+interventions → [2] → armGroupLabels → [2]
+Withdrawal period: Placebo
+
+outcomes
+
+primaryOutcomes → [0] → measure
+Change From Baseline in Hamilton Rating Scale for Depression-17 (HDRS17) Total Score
+primaryOutcomes → [0] → description
+The HDRS17 is a Clinician-Administered rating scale designed to assess the severity of symptoms in participants diagnosed with depression with a total score range of 0 to 52. It is the most widely used symptom severity measure for depression. Each of the 17 items is rated by the clinician on either a 3- point (0 to 2) or a 5-point scale (0 to 4). The point scale uses a rating of 0 (absent), 1 (doubtful to mild), 2 (mild to moderate), 3 (moderate to severe), and 4 (very severe). Total score will be calculated by summing up the individual item score. The higher the score, the more severe the depression.
+
+[PREREG_0007, relevance_score=0.110] primaryOutcomes → [0] → timeFrame
+Baseline up to Day 57
+primaryOutcomes → [1] → measure
+Change From Baseline in Hamilton Rating Scale for Depression-17 (HDRS17) Sleep Item-Adjusted Total Score
+primaryOutcomes → [1] → description
+The HDRS17 is a Clinician-Administered rating scale designed to assess the severity of symptoms in participants diagnosed with depression with a score range of 0 to 52. It is the most widely used symptom severity measure for depression. Each of the 17 items is rated by the clinician on either a 3- point (0 to 2) or a 5-point scale (0 to 4). The point scale uses a rating of 0 (absent), 1 (doubtful to mild), 2 (mild to moderate), 3 (moderate to severe), and 4 (very severe). Higher scores indicate worsening. HDRS17 Sleep Item-Adjusted is derived from the HDRS17 scale excluding the 3 sleep items (4, 5, and 6) from the total score.
+
+[PREREG_0009, relevance_score=0.092] primaryOutcomes → [2] → timeFrame
+Baseline up to Day 57
+primaryOutcomes → [3] → measure
+Change From Baseline in 6 Item Subscale From HDRS17 (HAM-D6) Score
+primaryOutcomes → [3] → description
+The 6-Item Hamilton Depression Scale (HAMD-6), derived by the sum of HAMD-17 items (the six items in the HAM-D6 are: depressed mood, guilt feelings, work and interests, psychomotor retardation, psychic anxiety, and general somatics \[tiredness and pains\]), evaluates ""core"" symptoms of Major Depressive Disorder (MDD). Total subscale scores range from 0 (normal) to 22 (severe). The higher the score, the more severe the depression. primaryOutcomes → [3] → timeFrame
+Baseline up to Day 57
+secondaryOutcomes → [0] → measure
+Change From Baseline in Quick Inventory of Depressive Symptomatology-Self Report (QIDS-SR16)
+secondaryOutcomes → [0] → description
+The QIDS-SR16 is a patient reported measure designed to assess the severity of depressive symptoms. The total score ranges from 0 to 27.
+
+[PREREG_0011, relevance_score=0.055] Following the key, the participant is presented with randomly ordered symbols and is required to respond orally by naming the number or enter the number corresponding to each symbol as fast as possible using a keypad. The number of correct substitutions within 90 seconds is recorded by computerized cognitive test battery. secondaryOutcomes → [2] → timeFrame
+Baseline
+secondaryOutcomes → [3] → measure
+Performance Score on a Cognitive Test Battery Evaluated by Word List Recall Test (WLRT)
+secondaryOutcomes → [3] → description
+The WLRT used for the computerized test battery that measures person's ability to encode, consolidate, store, and retrieve verbal information and is a sensitive test of verbal learning and memory in a variety of disease states, including MDD. The memory test will include a list of 15 words presented aloud, one at a time, through the iPad. After the 15-word list is presented, the participant will be asked to verbally recall as many of the words as possible. The 15 word list and participant recall will be conducted 4 more times (total 5 times). After the 5th learning trial and recall, performance on the learning trials of the original word list and on the delayed recall will be considered as the primary scores. The computer tablet will record and score the participant's responses to the evaluation.","The registration lists the primary outcomes as change from baseline in HDRS17 total score, HDRS17 Sleep Item-Adjusted total score, and HAM-D6 score, as seen in [PREREG_0007], [PREREG_0009], and other excerpts.",no,"The primary outcomes in the paper, such as change from baseline in HDRS17 total score, HDRS17 Sleep Item-Adjusted score, and HDRSAM-6 score [PAPER_0014], match the primary outcomes listed in the registration, including change from baseline in HDRS17 total score, HDRS17 Sleep Item-Adjusted total score, and HAM-D6 score [PREREG_0007, PREREG_0009]."
+Outcomes: secondary,"[PAPER_0005, relevance_score=0.066] A secondary objective
+was
+to
+investigate differential effects of seltorexant as compared to
+placebo on HDRS17 in patients with and without subjective
+insomnia. Moreover, the mechanisms that may underlie seltorex-
+ant’s antidepressant effects and dose response relationship were
+explored by evaluating its effects in depressed participants with
+high versus low levels of rumination, and on polysomnography
+and serum cortisol levels. The doses tested in the current trial were selected based on the
+results of previous trials using seltorexant in MDD. In the initial
+exploratory study in antidepressant-treated MDD patients with
+persistent insomnia cited above, single doses of seltorexant at 10-,
+20-, and 40-mg signiﬁcantly decreased the latency to persistent
+sleep, and increased TST and SE, with the 20- and 40-mg doses
+providing comparable efﬁcacy on these sleep measures [13]. In
+the 6-week double-blind, placebo-controlled study, 20- but not
+10- or 40-mg seltorexant qhs showed signiﬁcant efﬁcacy when
+administered adjunctively to an SSRI/SNRI in MDD patients,
+although the 40 mg dose showed similar antidepressant response
+and remission rates as the 20 mg dose [6].
+
+[PAPER_0006, relevance_score=0.066] The current study was
+designed to assess seltorexant’s antidepressant efﬁcacy as a
+monotherapy, and to assess whether the trend toward greater
+efﬁcacy observed at the 20 mg dose as compared to the 40 mg
+dose was reproducible. METHODS
+Trial design
+This multicenter, placebo-controlled, randomized, double-blind, study
+assessed the efﬁcacy, mechanism of action, and safety of seltorexant in
+MDD patients not currently receiving antidepressant therapy. Brieﬂy, the
+study consisted of a screening phase (up to 3 weeks), a double-blind
+treatment phase (8 weeks), and a follow-up phase (1 week) (Fig. 1). The
+double-blind treatment phase consisted of 3 periods: a blinded placebo
+lead-in period, a treatment period (5 weeks), and a blinded placebo
+withdrawal period. The study duration for each patient was ~13 weeks. Fourteen centers across 5 countries (Belgium, Germany, United Kingdom,
+Netherlands, and the US) were involved. The study protocol and
+amendment(s) were reviewed by an Institutional Review Board. Randomization and blinding
+Patients were randomized 1:1:1 to receive placebo, 20-, or 40-mg
+seltorexant.
+
+[PAPER_0010, relevance_score=0.073] Safety information was
+summarized using the full safety analysis set, deﬁned as participants who
+received ≥1 dose of study medication. Sample size determination
+An estimated 26 patients in each treatment group (78 total) were planned to
+complete the study in the enriched patient population after excluding
+placebo-responders in the placebo lead-in phase. The study sample size
+chosen (N = 78 non-placebo responders completing the study) was
+expected to allow investigation of the potential effect of seltorexant relative
+to placebo on symptoms of depression based upon power calculations that
+used data from a previous study conducted using the same compound in a
+similar patient population [15]. Assuming a standard deviation (SD) of 5.8 for
+the treatment difference in HDRS17 total score observed in this previous
+study [15], the calculated sample size allowed detection of a difference
+between any seltorexant group and placebo of 3.4 points and 4.2 points,
+respectively, at 20 and 10% one-sided signiﬁcance levels with 90% power. This translated to effect sizes of 0.59 and 0.72, respectively, which were
+comparable to the effect size previously observed [15]. To achieve this eITT sample size, 138 participants were planned to enter
+the lead-in period.
+
+[PAPER_0014, relevance_score=0.107] Statistical methods
+The primary hypothesis tested was that seltorexant is superior to placebo
+in the treatment of MDD when given as a monotherapy. A secondary
+objective was that the antidepressant treatment effect would be greater in
+patients with moderate-severe insomnia. The effect of seltorexant on
+symptoms of depression during the treatment period was evaluated using
+change from treatment baseline in HDRS17 total score, HDRS17 Sleep Item-
+Adjusted score and HDRSAM-6 score during the treatment period. [14]. The primary hypothesis was tested by comparing the changes in HDRS17
+total score after treatment Week 5 using a mixed-effects model for
+repeated measures (MMRM), with subject as random factor; presence of
+subjective sleep disorder, time, treatment (placebo, seltorexant) and time-
+by-treatment interaction as factors and treatment baseline score as a
+continuous
+covariate.
+
+[PAPER_0033, relevance_score=0.067] Self-assessment of depressive symptoms (QIDS-SR16)
+reﬂected subjective improvements in both seltorexant groups
+compared to placebo that were numerically most prominent in
+the 20 mg group. Nevertheless, it is noteworthy that in both the
+current and previous [6] studies the response and remission rates
+for the 20- and 40-mg seltorexant doses appeared similar, which
+in both cases were greater than those achieved on placebo. For sleep as measured by PSG, relative to placebo both the 20- and
+40-mg seltorexant doses showed greater reductions in LPS and
+WASO, along with increases in TST and SE, with the improvements in
+these parameters being numerically greater for the 40 mg than the
+20 mg seltorexant dose. However, participants receiving 40 mg of
+seltorexant also showed more time spent in the shallower N1 sleep
+stage and shorter latency to REM sleep, ﬁndings not observed in the
+20 mg dose group. Considered together with the observation that the
+20 mg dose showed a larger antidepressant treatment effect than the
+40 mg dose, these data suggest that seltorexant’s antidepressant
+treatment effect does not depend simply on increasing the total
+amount of sleep but may additionally involve the restoration and/or
+maintenance of physiological sleep (see below).
+
+[PAPER_0037, relevance_score=0.089] Notably, this strong treatment effect was observed despite the
+design limitation that the 1:1:1 randomization schedule limited the
+placebo expectancy to only 0.33, a design element which generally
+is associated with a larger placebo effect in studies of MDD [25, 26]. Limitations
+The study focuses on results in the placebo non-responder
+population, and although the full ITT (fITT) sample (placebo responder
+and non-responder population) showed similar trends, the magnitude
+of the treatment effects was lower in the fITT sample than in the eITT
+sample. The double-blind placebo lead-in period was used to
+proactively exclude early placebo responders from the primary
+efﬁcacy analysis, and to reduce potential effects of expectation and
+incentive biases from the study [27]. This approach is hypothesized to
+enhance the likelihood of obtaining a reliable estimate of treatment
+effect in the enriched population (i.e., based on showing a minimal
+response to placebo in the blinded lead in phase). However, disadvantages to this study design include the
+requirements for a longer study duration and larger sample size
+compared to a simple parallel design of same statistical character-
+istics. The longer duration prolongs the time during which
+depressed patients do not receive active antidepressant treatment
+while participating in the clinical trial.","The paper mentions secondary objectives including investigating differential effects of seltorexant on HDRS17 in patients with and without subjective insomnia, and evaluating the effect of seltorexant on symptoms of depression during the treatment period using change from treatment baseline in HDRS17 total score [PAPER_0005, PAPER_0014].","[PREREG_0002, relevance_score=0.071] conditions
+
+conditions → [0]
+Depressive Disorder, Major
+
+design
+
+studyType
+INTERVENTIONAL
+phases → [0]
+PHASE1
+designInfo → allocation
+RANDOMIZED
+designInfo → interventionModel
+PARALLEL
+designInfo → primaryPurpose
+TREATMENT
+designInfo → maskingInfo → masking
+DOUBLE
+designInfo → maskingInfo → whoMasked → [0]
+PARTICIPANT
+designInfo → maskingInfo → whoMasked → [1]
+INVESTIGATOR
+enrollmentInfo → count
+140
+enrollmentInfo → type
+ACTUAL
+
+armsInterventions
+
+armGroups → [0] → label
+Lead-in period: Placebo
+armGroups → [0] → type
+PLACEBO_COMPARATOR
+armGroups → [0] → description
+Participants who successfully complete the baseline examination visit at the clinical site/unit, will be treated with placebo (2 capsules taken orally) for the duration of the lead-in period which will last up to 3 weeks. Investigators and participants will be blinded to exact duration of each participant-specific lead-in period throughout the study.
+
+[PREREG_0004, relevance_score=0.078] armGroups → [1] → interventionNames → [0]
+Drug: JNJ-42847922 20mg
+armGroups → [1] → interventionNames → [1]
+Drug: JNJ-42847922 40mg
+armGroups → [1] → interventionNames → [2]
+Drug: Placebo
+armGroups → [2] → label
+Withdrawal period: Placebo
+armGroups → [2] → type
+PLACEBO_COMPARATOR
+armGroups → [2] → description
+Participants who will complete the treatment period prior to the end of Week 8 will enter the withdrawal period where they will be treated with placebo (2 capsules taken orally) for the remaining time of the double-blind phase of the study. Investigators and participants will be blinded to exact duration of each participant-specific withdrawal period. armGroups → [2] → interventionNames → [0]
+Drug: Placebo
+interventions → [0] → type
+DRUG
+interventions → [0] → name
+JNJ-42847922 20mg
+interventions → [0] → description
+Participants will swallow 20 mg (2\*10 mg) JNJ-42847922 capsule orally for 5 weeks during treatment period.
+
+[PREREG_0006, relevance_score=0.087] interventions → [2] → armGroupLabels → [0]
+Lead-in period: Placebo
+interventions → [2] → armGroupLabels → [1]
+Treatment period: JNJ-42847922 or Placebo
+interventions → [2] → armGroupLabels → [2]
+Withdrawal period: Placebo
+
+outcomes
+
+primaryOutcomes → [0] → measure
+Change From Baseline in Hamilton Rating Scale for Depression-17 (HDRS17) Total Score
+primaryOutcomes → [0] → description
+The HDRS17 is a Clinician-Administered rating scale designed to assess the severity of symptoms in participants diagnosed with depression with a total score range of 0 to 52. It is the most widely used symptom severity measure for depression. Each of the 17 items is rated by the clinician on either a 3- point (0 to 2) or a 5-point scale (0 to 4). The point scale uses a rating of 0 (absent), 1 (doubtful to mild), 2 (mild to moderate), 3 (moderate to severe), and 4 (very severe). Total score will be calculated by summing up the individual item score. The higher the score, the more severe the depression.
+
+[PREREG_0011, relevance_score=0.042] Following the key, the participant is presented with randomly ordered symbols and is required to respond orally by naming the number or enter the number corresponding to each symbol as fast as possible using a keypad. The number of correct substitutions within 90 seconds is recorded by computerized cognitive test battery. secondaryOutcomes → [2] → timeFrame
+Baseline
+secondaryOutcomes → [3] → measure
+Performance Score on a Cognitive Test Battery Evaluated by Word List Recall Test (WLRT)
+secondaryOutcomes → [3] → description
+The WLRT used for the computerized test battery that measures person's ability to encode, consolidate, store, and retrieve verbal information and is a sensitive test of verbal learning and memory in a variety of disease states, including MDD. The memory test will include a list of 15 words presented aloud, one at a time, through the iPad. After the 15-word list is presented, the participant will be asked to verbally recall as many of the words as possible. The 15 word list and participant recall will be conducted 4 more times (total 5 times). After the 5th learning trial and recall, performance on the learning trials of the original word list and on the delayed recall will be considered as the primary scores. The computer tablet will record and score the participant's responses to the evaluation.
+
+[PREREG_0012, relevance_score=0.034] secondaryOutcomes → [3] → timeFrame
+Baseline
+secondaryOutcomes → [4] → measure
+Performance Score on a Cognitive Test Battery Evaluated by Trail Making Test Form B (TMT-B)
+secondaryOutcomes → [4] → description
+The computerized (Revere.D) version of the TMT-B is modeled after the paper-and-pencil version of the test. The TMT-B measures divided attention and executive function (tracking and sequencing). The participant is instructed to draw a line to connect a set of 25 consecutively numbered and lettered circles, alternating sequentially between numbers and letters (that is, 1 A 2 B). The participant is instructed to work as quickly as possible while still maintaining accuracy. The TMT-B has acceptable reliability; reliability coefficients have typically been reported as exceeding 0.65. The TMT-B is sensitive to cognitive decline associated with MDD. secondaryOutcomes → [4] → timeFrame
+Baseline
+secondaryOutcomes → [5] → measure
+Change From Baseline in Bond & Lader (B&L) Visual Analogue Scale (VAS)
+secondaryOutcomes → [5] → description
+The B\&L VAS is made up of 16 pairs of alternative descriptors of mood and attention at either end. The Bond-Lader of a 10 cm line. Participants will rate their feelings at the time of assessment by indicating the point on the line which best represent their mood.
+
+[PREREG_0016, relevance_score=0.040] secondaryOutcomes → [9] → timeFrame
+Up to end of the study (Day 67)
+
+eligibility
+
+eligibilityCriteria
+Inclusion Criteria:
+
+* Have a body mass index (BMI) between 18 and 35 kilogram per meter square (kg/m\^2) inclusive (BMI = weight/height\^2)
+* Participants must be medically stable based on clinical laboratory tests, medical history, vital signs, and 12-lead electrocardiogram (ECG) performed at screening and baseline
+* Population specific: Participant must meet Diagnostic and Statistical Manual of Mental Disorders - fifth edition (DSM-5) diagnostic criteria for MDD (international classification of diseases \[ICD\]-code F32.x and F33.x), without psychotic features, and confirmed by the Mini International Neuropsychiatric Interview (MINI) 7.0; have a Montgomery Asberg Depression Rating Scale (MADRS) total score greater than or equal to (\>=) 25 at screening and must not demonstrate a clinically significant change (that is, an improvement of greater than (\>) 20 percent (%) on their MADRS total score) from the screening to the second completion of MADRS by telephone at most 4 days before the baseline visit; Not currently receiving antidepressant drug therapy for \>= 2 weeks before screening
+* Men who are sexually active with a women of childbearing potential (WOCBP) and have not had a vasectomy must agree to use a barrier method of birth control
+* A woman of childbearing potential must have a negative serum pregnancy test at screening and a negative urine pregnancy test before the first dose
+* A woman must agree not to donate eggs (ova, oocytes) for the purposes of assisted reproduction during the study and for at least 3 months after receiving the last dose of study drug
+
+Exclusion Criteria:
+
+* Has failed more than 2 treatments (no more than 20 percent (%) response) with a differing pharmacological mode of action despite an adequate dose and duration during a previous, or the current depressive episode
+* Has a diagnosis of Cushing's Disease, Addison's Disease, primary amenorrhea, or other evidence of significant medical disorders of the Hypothalamus pituitary adrenal (HPA) axis
+* Is pregnant or breast feeding
+* Participant has received an investigational drug (including investigational vaccines) or used an invasive investigational medical device within 60 days before the planned first dose of study drug, or has participated in 2 or more interventional clinical studies in the previous 1 year, or is currently enrolled in an interventional study
+* Participant is a man who plans to father a child while enrolled in this study or within 3 months after the last dose of study drug
+* Participant has a history of hepatitis B surface antigen (HBsAg) or hepatitis C antibody (anti-HCV) positive, or other clinically active liver disease, or tests positive for HBsAg or anti-HCV at screening
+healthyVolunteers
+False
+sex
+ALL
+minimumAge
+18 Years
+maximumAge
+55 Years
+stdAges → [0]
+ADULT
+
+contactsLocations
+
+overallOfficials → [0] → name
+Janssen Research & Development, LLC Clinical Trial
+overallOfficials → [0] → affiliation
+Janssen Research & Development, LLC
+overallOfficials → [0] → role
+STUDY_DIRECTOR
+locations → [0] → facility
+Artemis Institute for Clinical Research
+locations → [0] → city
+San Diego
+locations → [0] → state
+California
+locations → [0] → zip
+92103
+locations → [0] → country
+United States
+locations → [0] → geoPoint → lat
+32.71571
+locations → [0] → geoPoint → lon
+-117.16472
+locations → [1] → facility
+Artemis Institute for Clinical Research
+locations → [1] → city
+San Marcos
+locations → [1] → state
+California
+locations → [1] → zip
+92078
+locations → [1] → country
+United States
+locations → [1] → geoPoint → lat
+33.14337
+locations → [1] → geoPoint → lon
+-117.16614
+locations → [2] → facility
+Qps-Mra, Llc
+locations → [2] → city
+Miami
+locations → [2] → state
+Florida
+locations → [2] → zip
+33143
+locations → [2] → country
+United States
+locations → [2] → geoPoint → lat
+25.77427
+locations → [2] → geoPoint → lon
+-80.19366
+locations → [3] → facility
+SGS Phase 1 Unit AZ St-Maarten
+locations → [3] → city
+Mechelen
+locations → [3] → zip
+2800
+locations → [3] → country
+Belgium
+locations → [3] → geoPoint → lat
+51.02574
+locations → [3] → geoPoint → lon
+4.47762
+locations → [4] → facility
+Clinical Pharmacology Unit
+locations → [4] → city
+Merksem
+locations → [4] → zip
+2170
+locations → [4] → country
+Belgium
+locations → [4] → geoPoint → lat
+51.24623
+locations → [4] → geoPoint → lon
+4.44903
+locations → [5] → facility
+Charite Research Organisation GmbH
+locations → [5] → city
+Berlin
+locations → [5] → zip
+10117
+locations → [5] → country
+Germany
+locations → [5] → geoPoint → lat
+52.52437
+locations → [5] → geoPoint → lon
+13.41053
+locations → [6] → facility
+Emovis GmbH
+locations → [6] → city
+Berlin
+locations → [6] → zip
+10629
+locations → [6] → country
+Germany
+locations → [6] → geoPoint → lat
+52.52437
+locations → [6] → geoPoint → lon
+13.41053
+locations → [7] → facility
+Fraunhofer-Institut für Toxikologie und Experimentelle Medizin
+locations → [7] → city
+Hanover
+locations → [7] → zip
+30625
+locations → [7] → country
+Germany
+locations → [7] → geoPoint → lat
+52.37052
+locations → [7] → geoPoint → lon
+9.73322
+locations → [8] → facility
+Somni Bene GmbH
+locations → [8] → city
+Schwerin
+locations → [8] → zip
+19053
+locations → [8] → country
+Germany
+locations → [8] → geoPoint → lat
+53.62937
+locations → [8] → geoPoint → lon
+11.41316
+locations → [9] → facility
+Centre for Human Drug Research
+locations → [9] → city
+Leiden
+locations → [9] → zip
+2333 CL
+locations → [9] → country
+Netherlands
+locations → [9] → geoPoint → lat
+52.15833
+locations → [9] → geoPoint → lon
+4.49306
+locations → [10] → facility
+MAC Clinical Research
+locations → [10] → city
+Blackpool
+locations → [10] → zip
+FY2 0JH
+locations → [10] → country
+United Kingdom
+locations → [10] → geoPoint → lat
+53.81667
+locations → [10] → geoPoint → lon
+-3.05
+locations → [11] → facility
+MAC Clinical Research
+locations → [11] → city
+Liverpool
+locations → [11] → zip
+L34 1BH
+locations → [11] → country
+United Kingdom
+locations → [11] → geoPoint → lat
+53.41058
+locations → [11] → geoPoint → lon
+-2.97794
+locations → [12] → facility
+Hammersmith Medicines Research
+locations → [12] → city
+London
+locations → [12] → zip
+NW10 7EW
+locations → [12] → country
+United Kingdom
+locations → [12] → geoPoint → lat
+51.50853
+locations → [12] → geoPoint → lon
+-0.12574
+locations → [13] → facility
+MAC Clinical Research
+locations → [13] → city
+Manchester
+locations → [13] → zip
+M13 9NQ
+locations → [13] → country
+United Kingdom
+locations → [13] → geoPoint → lat
+53.48095
+locations → [13] → geoPoint → lon
+-2.23743
+
+references
+
+references → [0] → pmid
+39663378
+references → [0] → type
+DERIVED
+references → [0] → citation
+Mesens S, Kezic I, Van Der Ark P, Etropolski M, Pandina G, Benes H, Savitz A, Drevets WC.","The registration lists several secondary outcomes including performance score on a cognitive test battery evaluated by word list recall test, and change from baseline in Bond & Lader (B&L) Visual Analogue Scale (VAS) [PREREG_0011, PREREG_0012, PREREG_0016].",yes,"The paper and registration have different secondary outcomes. The paper mentions evaluating the effect of seltorexant on symptoms of depression during the treatment period using change from treatment baseline in HDRS17 total score [PAPER_0014], while the registration lists performance score on a cognitive test battery evaluated by word list recall test [PREREG_0012]. This suggests a deviation between the registered and published secondary outcomes [PAPER_0005, PREREG_0011]."
